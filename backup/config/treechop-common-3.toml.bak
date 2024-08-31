@@ -1,0 +1,8 @@
+permissions = {}
+
+[mod]
+	#Set to false to disable TreeChop without having to uninstall the mod
+	enabled = true
+	#Let TreeChop print to the log
+	printDebugInfo = true
+

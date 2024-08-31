@@ -1,0 +1,517 @@
+{
+  "plenty_of_golems:not_enough_golem_ad": {
+    "criteria": {
+      "not_enough_golem_ad": "2024-08-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-08-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_quests:root": {
+    "criteria": {
+      "root_0": "2024-08-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-08-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-08-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-08-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-08-26 21:03:03 +0000",
+      "quark:glimmering_weald": "2024-08-27 15:59:57 +0000",
+      "minecraft:cherry_grove": "2024-08-26 21:05:51 +0000",
+      "minecraft:sunflower_plains": "2024-08-26 21:50:55 +0000",
+      "minecraft:birch_forest": "2024-08-26 21:18:09 +0000",
+      "minecraft:windswept_hills": "2024-08-26 21:52:29 +0000",
+      "minecraft:bamboo_jungle": "2024-08-27 16:36:47 +0000",
+      "minecraft:beach": "2024-08-26 21:58:51 +0000",
+      "minecraft:dark_forest": "2024-08-27 16:26:46 +0000",
+      "minecraft:sparse_jungle": "2024-08-26 22:09:51 +0000",
+      "minecraft:lukewarm_ocean": "2024-08-26 22:06:00 +0000",
+      "minecraft:river": "2024-08-26 21:28:19 +0000",
+      "minecraft:dripstone_caves": "2024-08-26 20:46:39 +0000",
+      "minecraft:grove": "2024-08-26 20:57:39 +0000",
+      "minecraft:swamp": "2024-08-26 21:51:16 +0000",
+      "minecraft:jagged_peaks": "2024-08-26 20:57:59 +0000",
+      "minecraft:forest": "2024-08-26 20:34:29 +0000",
+      "minecraft:lush_caves": "2024-08-28 18:46:09 +0000",
+      "minecraft:jungle": "2024-08-26 22:05:25 +0000",
+      "minecraft:ocean": "2024-08-27 16:26:04 +0000",
+      "minecraft:windswept_savanna": "2024-08-26 21:53:58 +0000",
+      "minecraft:flower_forest": "2024-08-27 16:21:13 +0000",
+      "minecraft:frozen_peaks": "2024-08-26 21:06:28 +0000",
+      "minecraft:old_growth_birch_forest": "2024-08-27 16:51:42 +0000",
+      "minecraft:meadow": "2024-08-26 21:18:20 +0000",
+      "minecraft:savanna": "2024-08-26 21:53:48 +0000",
+      "minecraft:plains": "2024-08-26 21:03:11 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-08-26 20:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-08-26 20:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-08-26 20:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-08-26 20:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-08-26 20:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-26 20:40:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-08-26 20:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-08-26 20:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-08-29 16:57:36 +0000",
+      "minecraft:skeleton": "2024-08-26 21:23:14 +0000",
+      "minecraft:vindicator": "2024-08-26 22:12:57 +0000",
+      "minecraft:spider": "2024-08-26 20:50:20 +0000",
+      "minecraft:creeper": "2024-08-26 21:59:54 +0000",
+      "quark:forgotten": "2024-08-30 17:25:45 +0000",
+      "minecraft:phantom": "2024-08-29 14:51:46 +0000",
+      "minecraft:witch": "2024-08-27 15:51:35 +0000",
+      "minecraft:husk": "2024-08-27 16:08:50 +0000",
+      "minecraft:cave_spider": "2024-08-27 16:01:56 +0000",
+      "minecraft:enderman": "2024-08-27 15:50:21 +0000",
+      "minecraft:zombie": "2024-08-26 21:29:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-08-26 20:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-08-26 21:00:30 +0000",
+      "baked_potato": "2024-08-27 16:15:22 +0000",
+      "tropical_fish": "2024-08-29 14:20:30 +0000",
+      "apple": "2024-08-26 20:51:25 +0000",
+      "mutton": "2024-08-27 16:24:32 +0000",
+      "bread": "2024-08-26 21:33:35 +0000",
+      "rotten_flesh": "2024-08-26 20:56:08 +0000",
+      "salmon": "2024-08-29 14:15:33 +0000",
+      "cooked_chicken": "2024-08-26 21:15:38 +0000",
+      "cod": "2024-08-28 23:18:16 +0000",
+      "cooked_salmon": "2024-08-28 22:24:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-08-26 20:58:13 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-08-26 21:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-08-26 21:11:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-08-26 21:13:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-08-26 21:15:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-08-27 15:51:11 +0000",
+      "opened_chest": "2024-08-26 21:15:09 +0000",
+      "opened_cart": "2024-08-27 16:01:04 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-08-26 21:17:29 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-08-26 21:23:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-08-26 21:28:19 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-08-26 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-08-26 21:31:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-08-26 21:33:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2024-08-26 21:35:29 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-08-26 21:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-08-26 21:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-08-26 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-08-26 22:07:53 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_quests:refuse_quest": {
+    "criteria": {
+      "refuse_quest_0": "2024-08-26 22:11:54 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-08-26 22:17:04 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_jungle": "2024-08-26 22:17:04 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-08-27 13:51:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-08-27 15:51:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2024-08-27 15:56:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-08-27 16:01:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-08-27 16:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-08-27 16:02:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-08-27 16:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-08-27 16:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-08-27 16:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-08-27 16:59:19 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2024-08-28 18:46:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-08-28 19:09:34 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-08-28 21:01:40 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-08-28 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2024-08-28 21:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-08-28 21:07:34 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2024-08-28 21:31:04 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_soup": "2024-08-30 15:35:07 +0000",
+      "roast_chicken": "2024-08-28 21:36:43 +0000",
+      "pasta_with_mutton_chop": "2024-08-29 16:37:43 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-08-28 21:36:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-08-28 21:43:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-08-28 22:06:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2024-08-28 22:39:10 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-08-29 15:54:21 +0000",
+      "in_better_spider_dungeon": "2024-08-29 15:51:22 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-08-29 15:51:22 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-08-29 15:54:21 +0000"
+    },
+    "done": true
+  },
+  "plenty_of_golems:that_isnt_any_ordinary_bell": {
+    "criteria": {
+      "that_isnt_any_ordinary_bell": "2024-08-29 16:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-08-29 16:57:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-08-29 16:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-08-29 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-08-29 19:13:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-08-30 15:35:07 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-08-30 17:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-08-30 18:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-08-30 18:09:16 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:fungal_plains_advancement": {
+    "criteria": {
+      "fungal_plains_advancement_0": "2024-08-30 18:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-08-30 18:10:51 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2024-08-31 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
