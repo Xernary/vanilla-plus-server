@@ -10,6 +10,5 @@ cp -r "$SERVER_PATH" "$BACKUP_PATH/backup"
 # push backup folder to github
 cd "$BACKUP_PATH"
 git add .
-#git add "$BACKUP_PATH/backup"
 git commit -m "server backup"
 git push
