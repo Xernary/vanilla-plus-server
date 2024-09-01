@@ -76,3 +76,106 @@
 [01Sep2024 09:51:26.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
 [01Sep2024 09:51:26.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
 [01Sep2024 09:51:26.908] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[01Sep2024 13:24:44.876] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[01Sep2024 13:24:44.951] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Sep2024 13:24:44.982] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Sep2024 13:24:45.031] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Sep2024 13:24:45.082] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Sep2024 13:24:45.130] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Sep2024 13:24:45.180] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Sep2024 13:24:45.230] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Sep2024 13:24:45.280] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Sep2024 13:24:45.331] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Sep2024 13:24:45.381] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Sep2024 13:24:45.431] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Sep2024 13:24:45.480] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Sep2024 13:24:45.630] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Sep2024 13:24:45.631] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Sep2024 13:24:45.634] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Sep2024 13:24:45.690] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Sep2024 13:24:52.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/79.36.104.161:50881] logged in with entity id 54561 at (-1158.4325302778363, 66.0, 2092.068103848524)
+[01Sep2024 13:24:52.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[01Sep2024 13:24:52.294] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[01Sep2024 13:24:52.777] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[01Sep2024 13:39:43.954] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jerilyn'/56618, l='ServerLevel[world]', x=-1141.48, y=60.97, z=1984.69] died, message: 'Jerilyn drowned'
+[01Sep2024 13:39:43.955] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jerilyn'/56618, l='ServerLevel[world]', x=-1141.48, y=60.97, z=1984.69] died: Jerilyn drowned
+[01Sep2024 13:40:09.955] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Caravan Guard'/56635, l='ServerLevel[world]', x=-1140.38, y=60.03, z=1983.30] died: Caravan Guard drowned
+[01Sep2024 13:40:30.755] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Caravan Guard'/56634, l='ServerLevel[world]', x=-1141.71, y=61.14, z=1984.71] died: Caravan Guard drowned
+[01Sep2024 13:41:55.305] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Caravan Guard'/56641, l='ServerLevel[world]', x=-1138.30, y=60.08, z=1985.70] died: Caravan Guard drowned
+[01Sep2024 13:42:27.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Caravan Guard'/56631, l='ServerLevel[world]', x=-1140.71, y=60.09, z=1983.29] died: Caravan Guard drowned
+[01Sep2024 13:44:33.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Caravan Guard'/56640, l='ServerLevel[world]', x=-1141.69, y=60.97, z=1984.69] died: Caravan Guard drowned
+[01Sep2024 13:45:19.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Bryant'/56645, l='ServerLevel[world]', x=-1141.68, y=61.01, z=1984.32] died: Bryant drowned
+[01Sep2024 13:48:25.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lenard'/56619, l='ServerLevel[world]', x=-1141.40, y=61.01, z=1984.32] died, message: 'Lenard drowned'
+[01Sep2024 13:48:25.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lenard'/56619, l='ServerLevel[world]', x=-1141.40, y=61.01, z=1984.32] died: Lenard drowned
+[01Sep2024 13:49:31.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Caravan Leader'/56617, l='ServerLevel[world]', x=-1141.69, y=60.95, z=1984.31] died: Caravan Leader drowned
+[01Sep2024 14:13:04.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arlen'/56628, l='ServerLevel[world]', x=-1141.56, y=61.04, z=1984.41] died, message: 'Arlen drowned'
+[01Sep2024 14:13:04.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Arlen'/56628, l='ServerLevel[world]', x=-1141.56, y=61.04, z=1984.41] died: Arlen drowned
+[01Sep2024 14:15:43.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Set the weather to clear]
+[01Sep2024 14:18:33.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Freda'/56625, l='ServerLevel[world]', x=-1137.30, y=63.85, z=1984.70] died, message: 'Freda couldn't take evzi's heat'
+[01Sep2024 14:18:33.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Freda'/56625, l='ServerLevel[world]', x=-1137.30, y=63.85, z=1984.70] died: Freda couldn't take evzi's heat
+[01Sep2024 14:18:52.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Barrett'/56622, l='ServerLevel[world]', x=-1138.30, y=63.74, z=1983.29] died, message: 'Barrett's life was drained by evzi'
+[01Sep2024 14:18:52.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Barrett'/56622, l='ServerLevel[world]', x=-1138.30, y=63.74, z=1983.29] died: Barrett's life was drained by evzi
+[01Sep2024 14:20:26.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Caravan Guard'/56639, l='ServerLevel[world]', x=-1138.29, y=62.96, z=1983.29] died: Caravan Guard was struck down by evzi's lance of lightning
+[01Sep2024 14:20:36.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Angelo'/56644, l='ServerLevel[world]', x=-1137.92, y=62.52, z=1984.36] died: Angelo was struck down by evzi's lance of lightning
+[01Sep2024 14:20:49.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HorsemanEntity['Caravan Guard'/56636, l='ServerLevel[world]', x=-1137.31, y=62.31, z=1984.69] died: Caravan Guard was struck down by evzi's lance of lightning
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.764] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.765] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.765] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.765] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:25:57.765] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[01Sep2024 14:26:03.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5868ms or 117 ticks behind
+[01Sep2024 14:26:59.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=71, z=262} BlockPos{x=-111, y=71, z=260}
+[01Sep2024 14:27:49.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi has made the advancement [Ruthless Remnants]
+[01Sep2024 14:31:33.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:33.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:34.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:31:34.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=67, z=261} BlockPos{x=-274, y=66, z=264}
+[01Sep2024 14:36:11.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi has completed the challenge [Return to Sender]
+[01Sep2024 14:36:58.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/66202, l='ServerLevel[world]', x=-231.67, y=32.88, z=240.49] died: Corvin the Rotten burned to death
+[01Sep2024 14:38:15.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> -125 60 268
+[01Sep2024 14:38:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> -125 70 268
+[01Sep2024 14:40:16.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[01Sep2024 14:40:16.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[01Sep2024 14:40:16.262] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[01Sep2024 14:44:02.572] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[01Sep2024 14:44:02.638] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Sep2024 14:44:02.681] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Sep2024 14:44:02.731] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Sep2024 14:44:02.781] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Sep2024 14:44:02.830] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Sep2024 14:44:02.880] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Sep2024 14:44:02.930] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Sep2024 14:44:02.980] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Sep2024 14:44:03.030] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Sep2024 14:44:03.080] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Sep2024 14:44:03.130] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Sep2024 14:44:03.180] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Sep2024 14:44:03.306] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Sep2024 14:44:03.306] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Sep2024 14:44:03.331] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Sep2024 14:44:03.388] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Sep2024 14:44:10.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/79.36.104.161:52791] logged in with entity id 69787 at (-1155.300000011921, 66.0, 2083.699999988079)
+[01Sep2024 14:44:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[01Sep2024 14:44:10.265] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[01Sep2024 14:44:10.336] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[01Sep2024 14:47:25.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[01Sep2024 14:47:25.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[01Sep2024 14:47:25.709] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded

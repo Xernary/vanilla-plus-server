@@ -12,3 +12,6 @@ cd "$BACKUP_PATH"
 git add .
 git commit -m "server backup"
 git push
+
+# write backup timestamp to file
+

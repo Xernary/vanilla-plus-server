@@ -131,6 +131,7 @@
     "criteria": {
       "minecraft:pillager": "2024-08-29 16:57:36 +0000",
       "minecraft:skeleton": "2024-08-26 21:23:14 +0000",
+      "minecraft:ghast": "2024-09-01 14:36:11 +0000",
       "minecraft:vindicator": "2024-08-26 22:12:57 +0000",
       "minecraft:spider": "2024-08-26 20:50:20 +0000",
       "minecraft:creeper": "2024-08-26 21:59:54 +0000",
@@ -139,6 +140,7 @@
       "minecraft:witch": "2024-08-27 15:51:35 +0000",
       "minecraft:husk": "2024-08-27 16:08:50 +0000",
       "minecraft:cave_spider": "2024-08-27 16:01:56 +0000",
+      "minecraft:piglin": "2024-09-01 14:30:05 +0000",
       "minecraft:enderman": "2024-08-27 15:50:21 +0000",
       "minecraft:zombie": "2024-08-26 21:29:39 +0000"
     },
@@ -503,13 +505,26 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2024-08-30 18:10:51 +0000"
+      "minecraft:soul_sand_valley": "2024-08-30 18:10:51 +0000",
+      "minecraft:nether_wastes": "2024-09-01 14:29:08 +0000"
     },
     "done": false
   },
   "immersive_armors:recipes/misc/prismarine": {
     "criteria": {
       "has_item": "2024-08-31 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:ash_forest_advancement": {
+    "criteria": {
+      "ash_forest_advancement_0": "2024-09-01 14:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-09-01 14:36:11 +0000"
     },
     "done": true
   },
