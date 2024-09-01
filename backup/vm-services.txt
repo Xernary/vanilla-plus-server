@@ -24,16 +24,22 @@ to kill the server manually
 
 #################################################################
 
+/home/vanilla+server-real/update_mods_count.sh
+
+to update the server mods number in the server motd
+
+#################################################################
+
 show-server-logs
 
 to show the server logs
 
 #################################################################
 
-00 14,02 * * * /bin/backup-minecraft-server
+30 11,23 * * * /bin/backup-minecraft-server
 
 enabled it via writing it in config file via crontab -e 
-systemd deamon that backups the server everyday at 14 and 2
+deamon that backups the server everyday at 13:30 and 23:30 CEST
 
 #################################################################
 
