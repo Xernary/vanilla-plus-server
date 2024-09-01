@@ -1,0 +1,39 @@
+#################################################################
+
+backup-minecraft-server
+
+to backup the server on github
+
+#################################################################
+
+systemctl restart minecraft-server.service
+
+systemd service that wraps the server
+
+#################################################################
+
+/home/vanilla+server-real/run.sh
+
+to run the server manually
+
+#################################################################
+
+/home/vanilla+server-real/stop.sh
+
+to kill the server manually
+
+#################################################################
+
+show-server-logs
+
+to show the server logs
+
+#################################################################
+
+00 14,02 * * * /bin/backup-minecraft-server
+
+enabled it via writing it in config file via crontab -e 
+systemd deamon that backups the server everyday at 14 and 2
+
+#################################################################
+

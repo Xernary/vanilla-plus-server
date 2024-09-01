@@ -47,3 +47,32 @@
 [01Sep2024 09:35:00.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
 [01Sep2024 09:35:00.826] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
 [01Sep2024 09:35:00.955] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[01Sep2024 09:35:16.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[01Sep2024 09:35:16.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[01Sep2024 09:35:16.009] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[01Sep2024 09:50:27.300] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@750773ee[id=<null>,name=evzi,properties={},legacy=false] (/79.36.104.161:64214) lost connection: Disconnected
+[01Sep2024 09:50:29.650] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@136d40e1[id=<null>,name=evzi,properties={},legacy=false] (/79.36.104.161:64220) lost connection: Disconnected
+[01Sep2024 09:50:31.606] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[01Sep2024 09:50:31.690] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Sep2024 09:50:31.727] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Sep2024 09:50:31.777] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Sep2024 09:50:31.827] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Sep2024 09:50:31.876] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Sep2024 09:50:31.926] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Sep2024 09:50:31.976] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Sep2024 09:50:32.026] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Sep2024 09:50:32.076] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Sep2024 09:50:32.126] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Sep2024 09:50:32.176] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Sep2024 09:50:32.226] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Sep2024 09:50:32.337] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Sep2024 09:50:32.337] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Sep2024 09:50:32.378] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Sep2024 09:50:32.432] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Sep2024 09:50:38.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/79.36.104.161:64224] logged in with entity id 54363 at (-1158.4325302778363, 66.0, 2092.068103848524)
+[01Sep2024 09:50:38.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[01Sep2024 09:50:39.025] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[01Sep2024 09:50:39.145] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[01Sep2024 09:51:26.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[01Sep2024 09:51:26.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[01Sep2024 09:51:26.908] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
