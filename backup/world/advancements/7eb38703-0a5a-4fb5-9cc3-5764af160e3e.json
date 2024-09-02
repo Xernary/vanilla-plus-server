@@ -509,15 +509,15 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-08-31 16:44:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-08-31 16:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-08-31 16:44:56 +0000"
     },
     "done": true
   },
@@ -527,9 +527,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "ancient_debris": "2024-08-31 17:18:36 +0000"
+      "loot_bastion_other": "2024-08-31 16:50:23 +0000"
     },
     "done": true
   },
@@ -539,21 +539,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-08-31 17:18:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-08-31 17:21:24 +0000"
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2024-08-31 16:50:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-08-31 17:21:24 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-09-02 17:00:36 +0000"
     },
     "done": true
   },
