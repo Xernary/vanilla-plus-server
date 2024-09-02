@@ -62,6 +62,7 @@
       "minecraft:lukewarm_ocean": "2024-08-26 22:06:00 +0000",
       "minecraft:river": "2024-08-26 21:28:19 +0000",
       "minecraft:dripstone_caves": "2024-08-26 20:46:39 +0000",
+      "minecraft:snowy_taiga": "2024-09-02 22:44:47 +0000",
       "minecraft:grove": "2024-08-26 20:57:39 +0000",
       "minecraft:swamp": "2024-08-26 21:51:16 +0000",
       "minecraft:jagged_peaks": "2024-08-26 20:57:59 +0000",
@@ -134,10 +135,12 @@
       "minecraft:ghast": "2024-09-01 14:36:11 +0000",
       "minecraft:vindicator": "2024-08-26 22:12:57 +0000",
       "minecraft:spider": "2024-08-26 20:50:20 +0000",
+      "minecraft:piglin_brute": "2024-09-02 22:08:05 +0000",
       "minecraft:creeper": "2024-08-26 21:59:54 +0000",
       "quark:forgotten": "2024-08-30 17:25:45 +0000",
       "minecraft:phantom": "2024-08-29 14:51:46 +0000",
       "minecraft:witch": "2024-08-27 15:51:35 +0000",
+      "minecraft:wither_skeleton": "2024-09-02 22:06:24 +0000",
       "minecraft:husk": "2024-08-27 16:08:50 +0000",
       "minecraft:cave_spider": "2024-08-27 16:01:56 +0000",
       "minecraft:piglin": "2024-09-01 14:30:05 +0000",
@@ -506,7 +509,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2024-08-30 18:10:51 +0000",
-      "minecraft:nether_wastes": "2024-09-01 14:29:08 +0000"
+      "minecraft:nether_wastes": "2024-09-01 14:29:08 +0000",
+      "minecraft:basalt_deltas": "2024-09-02 22:39:41 +0000"
     },
     "done": false
   },
@@ -527,6 +531,30 @@
       "killed_ghast": "2024-09-01 14:36:11 +0000"
     },
     "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-09-02 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-09-02 21:23:59 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:i_aint_afraid": {
+    "criteria": {
+      "i_aint_afraid_0": "2024-09-02 22:03:08 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2024-09-02 22:07:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

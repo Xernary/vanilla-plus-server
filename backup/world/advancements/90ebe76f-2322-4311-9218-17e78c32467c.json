@@ -135,11 +135,14 @@
     "criteria": {
       "minecraft:pillager": "2024-08-27 18:50:09 +0000",
       "minecraft:skeleton": "2024-08-26 20:43:57 +0000",
+      "minecraft:ghast": "2024-09-02 21:48:34 +0000",
       "minecraft:vindicator": "2024-08-27 18:51:32 +0000",
       "minecraft:spider": "2024-08-26 21:04:59 +0000",
       "minecraft:creeper": "2024-08-26 21:03:29 +0000",
       "minecraft:witch": "2024-08-28 14:39:16 +0000",
+      "minecraft:wither_skeleton": "2024-09-02 22:06:57 +0000",
       "minecraft:cave_spider": "2024-08-28 14:39:16 +0000",
+      "minecraft:piglin": "2024-09-02 21:50:14 +0000",
       "minecraft:silverfish": "2024-08-26 21:39:32 +0000",
       "minecraft:enderman": "2024-08-28 14:04:39 +0000",
       "minecraft:zombie": "2024-08-26 21:05:18 +0000",
@@ -528,6 +531,42 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2024-08-29 17:45:52 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:fungal_plains_advancement": {
+    "criteria": {
+      "fungal_plains_advancement_0": "2024-09-02 21:47:50 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-09-02 21:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-09-02 21:47:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-09-02 21:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-09-02 21:47:49 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:ash_forest_advancement": {
+    "criteria": {
+      "ash_forest_advancement_0": "2024-09-02 22:03:37 +0000"
     },
     "done": true
   },
