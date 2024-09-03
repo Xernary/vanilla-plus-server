@@ -50,6 +50,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-08-26 21:03:36 +0000",
+      "quark:glimmering_weald": "2024-09-03 13:08:34 +0000",
       "minecraft:cherry_grove": "2024-08-26 21:06:05 +0000",
       "minecraft:birch_forest": "2024-08-26 20:52:09 +0000",
       "minecraft:windswept_hills": "2024-08-28 13:34:10 +0000",
@@ -58,6 +59,7 @@
       "minecraft:sparse_jungle": "2024-08-26 22:06:36 +0000",
       "minecraft:river": "2024-08-26 20:55:08 +0000",
       "minecraft:lukewarm_ocean": "2024-08-26 22:02:57 +0000",
+      "minecraft:stony_shore": "2024-09-03 16:01:28 +0000",
       "minecraft:grove": "2024-08-26 20:44:42 +0000",
       "minecraft:swamp": "2024-09-02 20:22:19 +0000",
       "minecraft:jagged_peaks": "2024-08-26 20:59:19 +0000",
@@ -104,7 +106,8 @@
       "pumpkin_pie": "2024-08-26 22:30:18 +0000",
       "bread": "2024-08-26 20:57:45 +0000",
       "rotten_flesh": "2024-08-27 16:54:35 +0000",
-      "quark:crab_leg": "2024-08-29 11:38:28 +0000"
+      "quark:crab_leg": "2024-08-29 11:38:28 +0000",
+      "carrot": "2024-09-03 18:41:43 +0000"
     },
     "done": false
   },
@@ -141,15 +144,21 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-08-26 20:56:19 +0000",
+      "minecraft:blaze": "2024-09-03 15:05:09 +0000",
       "minecraft:skeleton": "2024-08-26 20:51:13 +0000",
       "minecraft:ghast": "2024-09-02 21:53:42 +0000",
       "minecraft:guardian": "2024-08-29 15:22:17 +0000",
       "minecraft:vindicator": "2024-08-27 16:48:10 +0000",
+      "minecraft:magma_cube": "2024-09-03 15:10:59 +0000",
       "minecraft:spider": "2024-08-26 21:25:33 +0000",
       "minecraft:creeper": "2024-08-26 22:26:11 +0000",
+      "minecraft:wither_skeleton": "2024-09-03 15:01:52 +0000",
       "minecraft:cave_spider": "2024-09-03 11:13:40 +0000",
+      "minecraft:piglin": "2024-09-03 14:47:02 +0000",
       "minecraft:enderman": "2024-08-29 15:55:30 +0000",
+      "minecraft:endermite": "2024-09-03 15:10:41 +0000",
       "minecraft:zombie": "2024-08-26 20:50:44 +0000",
+      "quark:foxhound": "2024-09-03 14:51:43 +0000",
       "minecraft:zombie_villager": "2024-08-26 21:23:26 +0000"
     },
     "done": false
@@ -679,7 +688,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2024-08-30 18:10:54 +0000"
+      "minecraft:crimson_forest": "2024-09-03 14:48:16 +0000",
+      "minecraft:soul_sand_valley": "2024-08-30 18:10:54 +0000",
+      "minecraft:nether_wastes": "2024-09-03 14:49:20 +0000"
     },
     "done": false
   },
@@ -711,6 +722,168 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2024-09-02 20:06:06 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-09-03 12:25:50 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-09-03 13:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-09-03 14:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-09-03 14:49:17 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2024-09-03 14:55:03 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:ash_forest_advancement": {
+    "criteria": {
+      "ash_forest_advancement_0": "2024-09-03 14:56:19 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_port": "2024-09-03 14:56:53 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_port": {
+    "criteria": {
+      "nova_structures:nether_port": "2024-09-03 14:56:53 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-09-03 14:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-09-03 15:13:35 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-09-03 15:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-09-03 15:22:57 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-09-03 17:13:31 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-09-03 17:26:10 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-09-03 17:28:43 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2024-09-03 17:34:00 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2024-09-03 17:45:56 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-09-03 18:25:15 +0000"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2024-09-03 18:32:09 +0000"
+    },
+    "done": true
+  },
+  "create:potato_cannon": {
+    "criteria": {
+      "0": "2024-09-03 18:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-09-03 18:42:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-09-03 18:42:01 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-09-03 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2024-09-03 21:19:57 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-09-03 21:46:13 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2024-09-03 21:19:57 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2024-09-03 21:50:21 +0000"
     },
     "done": true
   },

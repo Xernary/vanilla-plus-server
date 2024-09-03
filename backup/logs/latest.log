@@ -307,3 +307,1035 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [03Sep2024 11:28:19.612] [Worker-Main-397/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
 [03Sep2024 11:28:19.612] [Worker-Main-397/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
 [03Sep2024 11:28:19.612] [Worker-Main-397/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[03Sep2024 11:30:39.712] [Worker-Main-399/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Sep2024 11:30:39.713] [Worker-Main-399/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Sep2024 11:30:39.885] [Worker-Main-401/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 11:30:39.885] [Worker-Main-401/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 11:30:39.885] [Worker-Main-401/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 11:30:39.885] [Worker-Main-401/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 11:30:41.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[03Sep2024 11:34:27.879] [Worker-Main-402/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[03Sep2024 11:34:27.900] [Worker-Main-400/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[03Sep2024 11:34:27.900] [Worker-Main-400/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 11:34:27.900] [Worker-Main-400/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 11:35:14.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[03Sep2024 11:35:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[03Sep2024 11:35:14.799] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[03Sep2024 12:05:45.290] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 12:05:45.369] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 12:05:45.389] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 12:05:45.439] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 12:05:45.488] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 12:05:45.544] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 12:05:45.587] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 12:05:45.639] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 12:05:45.690] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 12:05:45.739] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 12:05:45.790] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 12:05:45.841] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 12:05:45.891] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 12:05:46.007] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 12:05:46.008] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 12:05:46.040] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 12:05:46.096] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 12:05:51.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:49350] logged in with entity id 95966 at (-1100.449970882675, 72.0, 1975.4218019914358)
+[03Sep2024 12:05:51.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[03Sep2024 12:05:51.972] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[03Sep2024 12:06:09.609] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[03Sep2024 12:14:54.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[03Sep2024 12:14:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[03Sep2024 12:14:54.989] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[03Sep2024 12:16:54.683] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 12:16:54.757] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 12:16:54.787] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 12:16:54.837] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 12:16:54.888] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 12:16:54.938] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 12:16:54.988] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 12:16:55.040] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 12:16:55.090] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 12:16:55.137] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 12:16:55.187] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 12:16:55.238] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 12:16:55.289] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 12:16:55.410] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 12:16:55.410] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 12:16:55.440] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 12:16:55.495] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 12:17:02.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:51005] logged in with entity id 97075 at (-1070.762499988079, 56.0, 1973.6413211870438)
+[03Sep2024 12:17:02.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[03Sep2024 12:17:02.099] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[03Sep2024 12:17:22.815] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[03Sep2024 12:24:14.025] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Feno03 is 4b18fed1-e4da-4832-9384-5003c1df59f2
+[03Sep2024 12:24:14.121] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 12:24:14.146] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 12:24:14.196] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 12:24:14.251] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 12:24:14.296] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 12:24:14.346] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 12:24:14.401] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 12:24:14.451] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 12:24:14.496] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 12:24:14.546] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 12:24:14.601] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 12:24:14.646] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 12:24:14.866] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 12:24:14.871] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 12:24:14.874] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 12:24:14.876] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 12:24:21.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Feno03[/62.18.155.57:26050] logged in with entity id 97948 at (-959.5118564962147, 101.0, 1853.8101166570746)
+[03Sep2024 12:24:21.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 joined the game
+[03Sep2024 12:24:21.094] [Server thread/INFO] [Jade/]: Syncing config to Feno03 (4b18fed1-e4da-4832-9384-5003c1df59f2)
+[03Sep2024 12:24:21.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was loaded
+[03Sep2024 12:24:23.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> COSA
+[03Sep2024 12:24:27.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> C-COME
+[03Sep2024 12:24:35.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> oh shit
+[03Sep2024 12:24:39.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> NON POSSO CREDERCI
+[03Sep2024 12:26:23.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ho appena scoperto i Chute
+[03Sep2024 12:26:27.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sto godendo moltissimo
+[03Sep2024 12:26:40.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> che sono?
+[03Sep2024 12:26:45.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> I mega hopper
+[03Sep2024 12:26:49.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Prendono roba a gruppi di 16
+[03Sep2024 12:27:00.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Problema svuotamento zaini risolto
+[03Sep2024 12:27:18.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> la cosa che ti aveva detto ale
+[03Sep2024 12:27:22.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sì
+[03Sep2024 12:27:24.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Non sapevo il nome
+[03Sep2024 12:27:53.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Io dovrei prendere dei minerali feno.
+[03Sep2024 12:28:01.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Te l'accolli?
+[03Sep2024 12:28:44.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ok
+[03Sep2024 12:28:50.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Preparo i picconi.
+[03Sep2024 12:28:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ah! Ho trovato un mini dungeon dietro casa
+[03Sep2024 12:29:05.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Tipo nido di ragni
+[03Sep2024 12:29:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Va molto giù
+[03Sep2024 12:29:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> facciamo raccoglimento e poi dividiamo tutto?
+[03Sep2024 12:29:14.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sì sì
+[03Sep2024 12:29:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Parti eque e bona
+[03Sep2024 12:29:26.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> O al massimo se ci serve roba smezziamo
+[03Sep2024 12:29:34.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Tipo io rame te ferro
+[03Sep2024 12:29:42.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Io mi preparo, se vuoi/puoi sono su ds
+[03Sep2024 12:29:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Altrimenti ci becchiamo a ma casa
+[03Sep2024 12:30:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ci becchiamo a to casa
+[03Sep2024 12:34:13.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sto un momento facendo del cibo
+[03Sep2024 12:34:21.500] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e50ac17[id=<null>,name=evzi,properties={},legacy=false] (/79.42.94.208:55131) lost connection: Disconnected
+[03Sep2024 12:34:25.948] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2fc88a8d[id=<null>,name=evzi,properties={},legacy=false] (/79.42.94.208:55139) lost connection: Disconnected
+[03Sep2024 12:34:38.205] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@bba95a5[id=<null>,name=evzi,properties={},legacy=false] (/79.42.94.208:55144) lost connection: Disconnected
+[03Sep2024 12:34:51.747] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@420b72f3[id=<null>,name=evzi,properties={},legacy=false] (/79.42.94.208:55152) lost connection: Disconnected
+[03Sep2024 12:34:54.316] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[03Sep2024 12:34:54.385] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 12:34:54.433] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 12:34:54.480] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 12:34:54.529] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 12:34:54.582] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 12:34:54.628] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 12:34:54.678] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 12:34:54.727] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 12:34:54.777] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 12:34:54.828] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 12:34:54.879] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 12:34:54.928] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 12:34:55.055] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 12:34:55.055] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 12:34:55.086] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 12:34:55.141] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 12:35:01.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/79.42.94.208:55157] logged in with entity id 100993 at (-1528.630896651953, 103.0, 3968.5199506985605)
+[03Sep2024 12:35:01.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[03Sep2024 12:35:01.900] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[03Sep2024 12:35:02.607] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[03Sep2024 12:35:10.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> C'è 15 min
+[03Sep2024 12:35:20.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> E poi sta a tipo 5000 blocchi Nico
+[03Sep2024 12:35:27.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> 2000 ora
+[03Sep2024 12:35:30.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ah bene
+[03Sep2024 12:35:40.622] [pool-7-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-1435, y=74, z=3749}
+[03Sep2024 12:35:44.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> perche? in che reame sei
+[03Sep2024 12:37:21.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi moved too quickly! 1.1773700191658918,-0.9464426320800641,-10.023392430826334
+[03Sep2024 12:38:16.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[03Sep2024 12:38:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[03Sep2024 12:38:16.765] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[03Sep2024 12:38:26.538] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 12:38:26.606] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@620df14f[id=8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f,name=Mr_Millenomi,properties={textures=[com.mojang.authlib.properties.Property@398126dd]},legacy=false] (/81.56.93.19:52058) lost connection: Disconnected
+[03Sep2024 12:38:28.605] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 12:38:28.674] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 12:38:28.718] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 12:38:28.776] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 12:38:28.821] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 12:38:28.877] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 12:38:28.923] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 12:38:28.972] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 12:38:29.021] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 12:38:29.075] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 12:38:29.126] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 12:38:29.172] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 12:38:29.235] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 12:38:29.317] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 12:38:29.331] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 12:38:29.389] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 12:38:29.439] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 12:38:37.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:52060] logged in with entity id 102766 at (-1096.1585087462572, 72.125, 1960.9059765445786)
+[03Sep2024 12:38:37.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[03Sep2024 12:38:37.435] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[03Sep2024 12:39:02.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[03Sep2024 12:39:52.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> arrivo simo
+[03Sep2024 12:39:55.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok
+[03Sep2024 12:39:58.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sto finendo di cucinare
+[03Sep2024 12:40:19.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi moved too quickly! 6.93580220114336,0.3290916160677142,-7.374325910981497
+[03Sep2024 12:40:19.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 moved too quickly! 8.042889622463122,-0.7508129212553172,-5.945053745095947
+[03Sep2024 12:40:19.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
+[03Sep2024 12:40:35.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Lo vuoi un letto ste?
+[03Sep2024 12:40:41.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> appena craftato
+[03Sep2024 12:40:53.064] [Worker-Main-475/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Sep2024 12:40:53.064] [Worker-Main-475/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Sep2024 12:41:20.124] [Worker-Main-476/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[03Sep2024 12:41:30.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Prego prego
+[03Sep2024 12:41:40.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Vuoi cibo?
+[03Sep2024 12:41:50.331] [Worker-Main-464/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[03Sep2024 12:41:50.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ho la bistecca eterna
+[03Sep2024 12:41:57.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> A tuo rischio e pericolo
+[03Sep2024 12:41:59.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> e le patate
+[03Sep2024 12:42:22.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Minchia u ma coinquilino se sta mangiannu a connession
+[03Sep2024 12:42:26.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> A che minchia fa
+[03Sep2024 12:42:49.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Set the weather to clear]
+[03Sep2024 12:42:51.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> che tempo di cottura ha sta pasta?
+[03Sep2024 12:42:55.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Quasi finito
+[03Sep2024 12:43:01.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> E' zuppa
+[03Sep2024 12:43:08.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Che mi da regen per 3 min
+[03Sep2024 12:43:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> -1161 2111
+[03Sep2024 12:43:53.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> A che si spaidermann?
+[03Sep2024 12:43:57.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Che te lippi mura mura
+[03Sep2024 12:44:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> sono batman
+[03Sep2024 12:44:34.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ma te lippi mura mura come a spiderman
+[03Sep2024 12:44:43.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Pronto.
+[03Sep2024 12:44:46.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Dove andiamo?
+[03Sep2024 12:44:55.073] [Worker-Main-468/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 12:44:55.074] [Worker-Main-468/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 12:44:55.074] [Worker-Main-468/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 12:44:55.075] [Worker-Main-468/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 12:44:57.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> eppure mi chiamo batman, e m'ambriacu tutti i 'onna
+[03Sep2024 12:44:57.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[03Sep2024 12:45:11.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> ste guarda nel gruppo
+[03Sep2024 12:45:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ti seguo
+[03Sep2024 12:45:16.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Io seguivo te-
+[03Sep2024 12:45:20.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Bho andiamo qua
+[03Sep2024 12:46:27.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[03Sep2024 12:46:45.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Pensavo di cambiare ma ok
+[03Sep2024 12:46:51.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ci stava l'altra strada
+[03Sep2024 12:47:04.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> va bene
+[03Sep2024 12:47:44.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Talé
+[03Sep2024 12:48:11.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Se mi dai i minerali li smelto io nello zaino
+[03Sep2024 12:48:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> li prendo grezzi che ho fortuna
+[03Sep2024 12:48:32.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ah dillo prima
+[03Sep2024 12:48:39.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> me li spacchetto a casa a tipi cicciogamer89
+[03Sep2024 12:48:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> A che semmu su clash royale?
+[03Sep2024 12:49:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> OH CA
+[03Sep2024 12:49:39.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> me lo ero dimentica bastarda
+[03Sep2024 12:49:50.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Qui zinco
+[03Sep2024 12:50:15.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> zinco prendilo pure
+[03Sep2024 12:50:25.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Vabbé volevo che me lo spacchettavi
+[03Sep2024 12:50:36.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> bella merda
+[03Sep2024 12:50:44.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Porcoddio.
+[03Sep2024 12:51:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Laggo come la merda dio cane
+[03Sep2024 12:51:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Minerali
+[03Sep2024 12:52:30.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi moved too quickly! -3.6058697675002804,-0.5800000131130219,-9.866749528617675
+[03Sep2024 12:52:30.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[03Sep2024 12:52:36.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[03Sep2024 12:52:36.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[03Sep2024 12:52:36.151] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[03Sep2024 12:53:05.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Controlla anche le fessure dei muri
+[03Sep2024 12:53:09.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ci stava un fottio di ferro
+[03Sep2024 12:53:46.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Minchia piccone in diamonds
+[03Sep2024 12:55:11.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi moved too quickly! -0.6393114079014595,0.2468000194787976,-10.175376998325191
+[03Sep2024 12:55:21.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ma a te va liscio?
+[03Sep2024 12:55:25.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> si
+[03Sep2024 12:55:36.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> E allora è lui che sta mangiando tutta la banda
+[03Sep2024 12:55:44.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi moved too quickly! -6.039476176745893,1.0,8.149499666148358
+[03Sep2024 12:56:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Qui c'è passato Giovanni.
+[03Sep2024 12:56:22.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Si scende molto
+[03Sep2024 12:56:28.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> il rame vale meno dei miei picconi incantati (ne ho 27 stack nelle ceste), quindi non lo prendo
+[03Sep2024 12:56:33.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Quasi quasi portavo delle corde
+[03Sep2024 12:56:43.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok
+[03Sep2024 12:56:59.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ensomma
+[03Sep2024 12:57:55.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Laggo troppo cazzo
+[03Sep2024 12:58:10.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ferro
+[03Sep2024 12:58:14.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Lapis
+[03Sep2024 12:58:23.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Fossa di dio cristo
+[03Sep2024 12:58:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> bella golosa sta grotta
+[03Sep2024 12:59:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Fra devo fare qualcosa
+[03Sep2024 12:59:40.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Risaliamo
+[03Sep2024 12:59:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> E mi aspetti un attimo
+[03Sep2024 13:00:05.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> vabbe ti aspetto qua
+[03Sep2024 13:00:09.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[03Sep2024 13:00:09.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[03Sep2024 13:00:09.040] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[03Sep2024 13:00:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> mal che vada mi ammazza il dweller
+[03Sep2024 13:06:23.587] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 13:06:23.627] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 13:06:23.658] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 13:06:23.698] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 13:06:23.751] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 13:06:23.800] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 13:06:23.851] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 13:06:23.903] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 13:06:23.955] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 13:06:24.000] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 13:06:24.051] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 13:06:24.102] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 13:06:24.149] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 13:06:24.304] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 13:06:24.305] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 13:06:24.307] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 13:06:24.361] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 13:06:31.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:53233] logged in with entity id 112821 at (-1080.699999988079, -16.0, 2071.341628113812)
+[03Sep2024 13:06:31.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[03Sep2024 13:06:31.903] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[03Sep2024 13:06:52.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[03Sep2024 13:07:18.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok
+[03Sep2024 13:07:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Forse va meglio
+[03Sep2024 13:08:11.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Dove sei?
+[03Sep2024 13:08:32.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> cerco di tornare alla zona di prima
+[03Sep2024 13:09:32.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> CHE COSIAE RA
+[03Sep2024 13:09:34.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> TERRIBILE
+[03Sep2024 13:09:42.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> non pensavo di ammazzarlo così
+[03Sep2024 13:10:30.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Veridium?
+[03Sep2024 13:10:44.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Pare carino per costruire
+[03Sep2024 13:12:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ma se tipo stassimo vicini?
+[03Sep2024 13:12:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> io sono qua
+[03Sep2024 13:14:19.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Minerals
+[03Sep2024 13:17:09.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Cosa era
+[03Sep2024 13:17:12.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Rumore di casse
+[03Sep2024 13:17:21.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> rumore di dweller
+[03Sep2024 13:18:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Non prendi?
+[03Sep2024 13:18:21.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> si si
+[03Sep2024 13:19:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Qua ho trovato un fottio di ferro
+[03Sep2024 13:19:54.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Poi riscendiamo
+[03Sep2024 13:21:26.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1117, y=10, z=1975} BlockPos{x=-1116, y=10, z=1974}
+[03Sep2024 13:21:26.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1117, y=10, z=1975} BlockPos{x=-1116, y=10, z=1974}
+[03Sep2024 13:21:26.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1117, y=10, z=1975} BlockPos{x=-1116, y=10, z=1974}
+[03Sep2024 13:21:26.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1117, y=10, z=1975} BlockPos{x=-1116, y=10, z=1974}
+[03Sep2024 13:21:26.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1117, y=10, z=1975} BlockPos{x=-1116, y=10, z=1974}
+[03Sep2024 13:22:32.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Carino sto materiale
+[03Sep2024 13:22:57.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ne ho presi 2 stack da 128 che potrebbe essermi utile
+[03Sep2024 13:23:28.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Se in caso dopo ne prendi per me
+[03Sep2024 13:23:43.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Allora qua sta pieno di minerali, anche sott'acqua
+[03Sep2024 13:23:48.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Pieno di ferro e redstone
+[03Sep2024 13:23:58.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> diciamo che sto mettendo sotto sforzo i miei picconi
+[03Sep2024 13:24:05.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> già il martello è a metà
+[03Sep2024 13:24:17.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> e qui
+[03Sep2024 13:24:20.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> lo vedo
+[03Sep2024 13:24:47.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Non lo avevo visto
+[03Sep2024 13:24:51.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Mi sono cacato in mano
+[03Sep2024 13:24:57.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> oddiomio
+[03Sep2024 13:27:33.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Oddio andesite me pare miracolo
+[03Sep2024 13:30:24.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Quasi fatto
+[03Sep2024 13:33:52.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Che fanno queste?
+[03Sep2024 13:34:01.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> farmano minerali
+[03Sep2024 13:34:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 has made the advancement [Mine Turtle!]
+[03Sep2024 13:34:08.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> O
+[03Sep2024 13:36:14.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Se non li avessi cotti ne avrei avuti di più
+[03Sep2024 13:37:06.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> che cazzo
+[03Sep2024 13:37:10.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Non lo so
+[03Sep2024 13:37:19.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Penso siamo vicini ad un burrone tipo
+[03Sep2024 13:37:45.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> temporale sotto terra?
+[03Sep2024 13:37:49.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok non è normale
+[03Sep2024 13:38:22.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Penso sia il cave dweller
+[03Sep2024 13:38:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> non credo
+[03Sep2024 13:39:46.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ho beccato un'altra zona esplorata
+[03Sep2024 13:39:54.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> cmq io salgo
+[03Sep2024 13:40:01.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Di già?
+[03Sep2024 13:40:06.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Volevo scendere al diamante
+[03Sep2024 13:43:45.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Chest Slayer]
+[03Sep2024 13:45:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sto salendo che spartiamo
+[03Sep2024 13:46:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Minchia ma Moro in miniera sarebbe un animale
+[03Sep2024 13:46:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sale e scende come gli pare
+[03Sep2024 13:46:50.598] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Xandro01 is 7eb38703-0a5a-4fb5-9cc3-5764af160e3e
+[03Sep2024 13:46:50.718] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 13:46:50.723] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 13:46:50.763] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 13:46:50.803] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 13:46:50.853] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 13:46:50.898] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 13:46:50.953] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 13:46:51.003] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 13:46:51.053] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 13:46:51.108] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 13:46:51.163] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 13:46:51.208] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 13:46:51.468] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 13:46:51.473] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 13:46:51.478] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 13:46:51.488] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 13:46:55.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xandro01[/62.18.27.174:58124] logged in with entity id 121990 at (-1063.0736565035959, 66.0, 1968.2701321477746)
+[03Sep2024 13:46:55.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 joined the game
+[03Sep2024 13:46:55.229] [Server thread/INFO] [Jade/]: Syncing config to Xandro01 (7eb38703-0a5a-4fb5-9cc3-5764af160e3e)
+[03Sep2024 13:46:55.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> rottissima quella razza
+[03Sep2024 13:46:56.502] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7eb38703-0a5a-4fb5-9cc3-5764af160e3e was loaded
+[03Sep2024 13:47:03.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sì ma il sole lo ammazza
+[03Sep2024 13:47:06.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> E ha poca vita
+[03Sep2024 13:51:01.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Caravan Guard'/114289, l='ServerLevel[world]', x=-1048.67, y=93.80, z=2057.67] died: Caravan Guard was slain by Mr_Millenomi
+[03Sep2024 13:51:14.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Alda'/114293, l='ServerLevel[world]', x=-1049.31, y=89.00, z=2055.69] died: Alda was slain by Mr_Millenomi
+[03Sep2024 13:51:16.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Simon'/114266, l='ServerLevel[world]', x=-1049.70, y=90.00, z=2056.02] died, message: 'Simon was slain by Mr_Millenomi'
+[03Sep2024 13:51:16.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Simon'/114266, l='ServerLevel[world]', x=-1049.70, y=90.00, z=2056.02] died: Simon was slain by Mr_Millenomi
+[03Sep2024 13:51:21.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Caravan Guard'/114283, l='ServerLevel[world]', x=-1049.30, y=90.00, z=2056.70] died: Caravan Guard was slain by Mr_Millenomi
+[03Sep2024 13:52:48.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HorsemanEntity['Caravan Guard'/114285, l='ServerLevel[world]', x=-1051.31, y=92.00, z=2063.38] died: Caravan Guard was shot by Mr_Millenomi
+[03Sep2024 13:52:55.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ma sti villager hanno la killaura
+[03Sep2024 13:53:15.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HorsemanEntity['Caravan Guard'/114286, l='ServerLevel[world]', x=-1048.71, y=93.87, z=2057.71] died: Caravan Guard was slain by Mr_Millenomi
+[03Sep2024 13:53:47.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Caravan Guard'/114282, l='ServerLevel[world]', x=-1047.29, y=93.00, z=2061.71] died: Caravan Guard was slain by Mr_Millenomi
+[03Sep2024 13:53:51.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Caravan Guard'/114281, l='ServerLevel[world]', x=-1047.70, y=92.42, z=2061.70] died: Caravan Guard was slain by Mr_Millenomi
+[03Sep2024 13:53:52.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Lora'/114292, l='ServerLevel[world]', x=-1047.31, y=92.00, z=2061.69] died: Lora was blasted by Mr_Millenomi's ray of frost
+[03Sep2024 13:53:54.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rosanna'/114273, l='ServerLevel[world]', x=-1047.69, y=92.00, z=2061.41] died, message: 'Rosanna was slain by Mr_Millenomi'
+[03Sep2024 13:53:54.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rosanna'/114273, l='ServerLevel[world]', x=-1047.69, y=92.00, z=2061.41] died: Rosanna was slain by Mr_Millenomi
+[03Sep2024 13:53:55.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Whitney'/114270, l='ServerLevel[world]', x=-1047.49, y=92.00, z=2060.51] died, message: 'Whitney was slain by Mr_Millenomi'
+[03Sep2024 13:53:55.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Whitney'/114270, l='ServerLevel[world]', x=-1047.49, y=92.00, z=2060.51] died: Whitney was slain by Mr_Millenomi
+[03Sep2024 13:53:56.437] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lou'/114267, l='ServerLevel[world]', x=-1047.30, y=92.00, z=2060.97] died, message: 'Lou was slain by Mr_Millenomi'
+[03Sep2024 13:53:56.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lou'/114267, l='ServerLevel[world]', x=-1047.30, y=92.00, z=2060.97] died: Lou was slain by Mr_Millenomi
+[03Sep2024 13:54:26.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> 114 ferro, 14 oro, 2 diamanti, 17 (grazza) redstone, 17 (grezzo) lapis
+[03Sep2024 13:54:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Se aspetti arrivo e conto
+[03Sep2024 13:55:03.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> Ma tu hai preso pure?
+[03Sep2024 13:55:07.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sì ho qualcosa
+[03Sep2024 13:55:11.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ok
+[03Sep2024 13:55:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ti aggiungo anche una percentuale che prendo dalla fortuna
+[03Sep2024 13:55:50.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> in amicizia
+[03Sep2024 13:55:58.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok
+[03Sep2024 13:56:08.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Poi appena ho le farm ti do pure io una percentuale
+[03Sep2024 13:57:04.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 was doomed to fall by Mushlin Bumper
+[03Sep2024 13:57:19.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Eccomi.
+[03Sep2024 13:57:24.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Mi poggi una cassa?
+[03Sep2024 13:57:50.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> uccidilo
+[03Sep2024 13:57:56.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Cosa?
+[03Sep2024 13:57:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> no scherzo
+[03Sep2024 13:58:00.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> a feno
+[03Sep2024 13:58:05.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Bruh
+[03Sep2024 13:58:30.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Metti tutto qui
+[03Sep2024 13:59:22.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ci mettero un po
+[03Sep2024 13:59:33.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Allora aspetta
+[03Sep2024 13:59:35.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Creo una tua
+[03Sep2024 14:00:02.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> -88 200
+[03Sep2024 14:00:13.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> allora
+[03Sep2024 14:00:25.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[03Sep2024 14:00:25.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[03Sep2024 14:00:25.512] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[03Sep2024 14:02:23.903] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 14:02:23.949] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 14:02:23.988] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 14:02:24.040] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 14:02:24.079] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 14:02:24.131] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 14:02:24.179] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 14:02:24.237] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 14:02:24.285] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 14:02:24.340] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 14:02:24.382] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 14:02:24.423] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 14:02:24.472] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 14:02:24.605] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 14:02:24.605] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 14:02:24.632] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 14:02:24.676] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 14:02:31.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:52305] logged in with entity id 130439 at (-956.3831474738373, 99.0, 1839.761704520988)
+[03Sep2024 14:02:31.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[03Sep2024 14:02:31.954] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[03Sep2024 14:02:53.762] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[03Sep2024 14:03:21.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Errore da principiante.
+[03Sep2024 14:03:25.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Shift nello zaino
+[03Sep2024 14:03:30.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ah
+[03Sep2024 14:03:39.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> io ho levato la smoothswapping
+[03Sep2024 14:03:45.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Io pure credevo
+[03Sep2024 14:04:56.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Finisco di smeltare roba e famo
+[03Sep2024 14:07:53.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Se a te non serve dammi anche la polvere da sparo
+[03Sep2024 14:08:00.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> non ne ho
+[03Sep2024 14:09:58.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Io ho fatto.
+[03Sep2024 14:10:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 has completed the challenge [Return to Sender]
+[03Sep2024 14:10:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Attenzione
+[03Sep2024 14:10:41.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Con st'armatura sembro tipo un witcher lol
+[03Sep2024 14:10:53.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> carina effettivamente
+[03Sep2024 14:11:14.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> E i diamanti?
+[03Sep2024 14:11:19.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> allora lapis e redstone cìè già l'aggiunta amichevole
+[03Sep2024 14:11:25.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Tu prima (per sbaglio penso) ne avevi dati 2
+[03Sep2024 14:11:31.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> E te li avevo ridati
+[03Sep2024 14:11:31.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> te li ho droppati all'inizio
+[03Sep2024 14:11:35.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ah erano droppati
+[03Sep2024 14:11:40.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Pensavo li avessi lasciati per errore
+[03Sep2024 14:12:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> diamanti su 4 di partenza me ne sono usciti 5
+[03Sep2024 14:12:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Dammi 2 e bona
+[03Sep2024 14:12:11.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Guarda qui
+[03Sep2024 14:12:13.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Vedi cosa ti serve
+[03Sep2024 14:12:14.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 has made the advancement [Ruthless Remnants]
+[03Sep2024 14:12:39.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> in questa cesta è da dividere tra me e te?
+[03Sep2024 14:12:42.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sì
+[03Sep2024 14:12:53.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> E' ciò che ho preso
+[03Sep2024 14:13:00.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Volendo ti posso dare tutto l'orchum anche
+[03Sep2024 14:13:07.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ochrum
+[03Sep2024 14:13:13.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-375, y=64, z=239} BlockPos{x=-340, y=57, z=233}
+[03Sep2024 14:13:13.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-375, y=64, z=239} BlockPos{x=-340, y=57, z=233}
+[03Sep2024 14:13:34.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> allora
+[03Sep2024 14:14:07.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ferro e oro mi prendo la metà
+[03Sep2024 14:14:11.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok
+[03Sep2024 14:14:23.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Redstone?
+[03Sep2024 14:14:30.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> questo qua dentro è tutto tuo
+[03Sep2024 14:14:32.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Sti due li avevo presi per te
+[03Sep2024 14:14:35.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Che non mi servono
+[03Sep2024 14:14:39.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ti aggiungo uno stack di ferro
+[03Sep2024 14:14:47.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok grazie
+[03Sep2024 14:14:53.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Che ci crafto un fottio con quelli
+[03Sep2024 14:15:04.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-315, y=50, z=191} BlockPos{x=-316, y=51, z=191}
+[03Sep2024 14:15:06.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> L'Ochrum non lo prendi?
+[03Sep2024 14:15:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Se ti serviva tienilo
+[03Sep2024 14:15:34.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> potrebbe servirmi
+[03Sep2024 14:15:43.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> To' omaggio della casa
+[03Sep2024 14:16:01.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Io sistemo due cose e vado
+[03Sep2024 14:18:23.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Hot Stuff]
+[03Sep2024 14:20:47.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 lost connection: Disconnected
+[03Sep2024 14:20:47.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 left the game
+[03Sep2024 14:20:47.657] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was unloaded
+[03Sep2024 14:24:03.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Troppo comoda la create
+[03Sep2024 14:24:13.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Cucini senza sprecare materiali
+[03Sep2024 14:24:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> tranne quando non trovi una fortezza del nether
+[03Sep2024 14:24:43.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Rischi del mestiere
+[03Sep2024 14:32:20.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 has made the advancement [I Ain't Afraid]
+[03Sep2024 14:32:38.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Acche m'azzasti Casper?
+[03Sep2024 14:34:16.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Mi servono i blaze burner.
+[03Sep2024 14:34:22.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Porcaccio chi so io
+[03Sep2024 14:34:40.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> perche credi che mi serva una fortezza del nether XD
+[03Sep2024 14:35:49.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Vieni su ds?
+[03Sep2024 14:35:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ti do una mano
+[03Sep2024 14:37:16.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> aspe un secondo cerco di uscire dal nether
+[03Sep2024 14:37:24.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Io ci stavo per entrare cont
+[03Sep2024 14:45:11.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xandro01 lost connection: Disconnected
+[03Sep2024 14:45:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 left the game
+[03Sep2024 14:45:11.229] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7eb38703-0a5a-4fb5-9cc3-5764af160e3e was unloaded
+[03Sep2024 14:45:13.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ma
+[03Sep2024 14:47:19.310] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Feno03 is 4b18fed1-e4da-4832-9384-5003c1df59f2
+[03Sep2024 14:47:19.405] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 14:47:19.452] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 14:47:19.525] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 14:47:19.558] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 14:47:19.598] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 14:47:19.641] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 14:47:19.695] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 14:47:19.740] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 14:47:19.795] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 14:47:19.855] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 14:47:19.895] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 14:47:19.946] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 14:47:20.125] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 14:47:20.138] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 14:47:20.138] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 14:47:20.178] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 14:47:26.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Feno03[/62.18.155.57:25460] logged in with entity id 151798 at (-960.4172877295722, 101.0, 1858.699999988079)
+[03Sep2024 14:47:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 joined the game
+[03Sep2024 14:47:26.826] [Server thread/INFO] [Jade/]: Syncing config to Feno03 (4b18fed1-e4da-4832-9384-5003c1df59f2)
+[03Sep2024 14:47:26.976] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was loaded
+[03Sep2024 14:47:36.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> simo
+[03Sep2024 14:47:36.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ma tuo fratello è crashato o ha smesso?
+[03Sep2024 14:47:39.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Oi
+[03Sep2024 14:47:42.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> sono ale
+[03Sep2024 14:47:47.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Che succeriu?
+[03Sep2024 14:47:49.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ma non sono morto giusto?
+[03Sep2024 14:47:54.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> No
+[03Sep2024 14:47:57.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Che è successo?
+[03Sep2024 14:48:19.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ok, mi si e scricato il cel, e quindi l hotspot, ma ero vicino a dei funghi con le gambe
+[03Sep2024 14:48:31.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Al portale?
+[03Sep2024 14:48:41.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> no vicino
+[03Sep2024 14:48:46.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok quindi?
+[03Sep2024 14:48:52.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> vabe apposto se non sono morto nn e un problema
+[03Sep2024 14:48:58.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> No no tutto ok
+[03Sep2024 14:49:05.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Io ora cerco sta fortezza
+[03Sep2024 14:49:17.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Those Were the Days]
+[03Sep2024 14:49:27.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> vabo vado
+[03Sep2024 14:49:37.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok più tardi ci siete?
+[03Sep2024 14:49:48.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ciso simo, buona fortuna, non so, non penso
+[03Sep2024 14:49:58.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Ok grazie
+[03Sep2024 14:50:02.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 lost connection: Disconnected
+[03Sep2024 14:50:02.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 left the game
+[03Sep2024 14:50:02.500] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was unloaded
+[03Sep2024 14:55:03.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [A Burning Arena]
+[03Sep2024 14:56:19.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Ruthless Remnants]
+[03Sep2024 14:56:53.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Port o Magma]
+[03Sep2024 15:13:35.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Who is Cutting Onions?]
+[03Sep2024 15:14:32.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Caravan Guard'/157484, l='ServerLevel[world]', x=-80.37, y=128.00, z=137.16] died: Caravan Guard was shot by Patrol
+[03Sep2024 15:14:33.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Caravan Leader'/157481, l='ServerLevel[world]', x=-77.83, y=128.00, z=132.39] died: Caravan Leader was slain by Patrol
+[03Sep2024 15:14:36.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Caravan Guard'/157485, l='ServerLevel[world]', x=-71.91, y=128.00, z=134.10] died: Caravan Guard was slain by Patrol
+[03Sep2024 15:14:38.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Caravan Guard'/157483, l='ServerLevel[world]', x=-65.64, y=128.00, z=131.24] died: Caravan Guard was shot by Patrol
+[03Sep2024 15:14:41.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Caravan Guard'/157482, l='ServerLevel[world]', x=-78.64, y=128.40, z=135.65] died: Caravan Guard was slain by Patrol
+[03Sep2024 15:14:48.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Caravan Guard'/157514, l='ServerLevel[world]', x=-97.08, y=130.75, z=127.48] died: Caravan Guard was shot by Patrol
+[03Sep2024 15:16:33.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Caravan Guard'/157731, l='ServerLevel[world]', x=-159.49, y=128.00, z=123.68] died: Caravan Guard was shot by Patrol
+[03Sep2024 15:17:01.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HorsemanEntity['Caravan Guard'/157718, l='ServerLevel[world]', x=-124.90, y=128.80, z=108.51] died: Caravan Guard was slain by Patrol Leader
+[03Sep2024 15:22:57.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Hidden in the Depths]
+[03Sep2024 15:24:45.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Patrol'/160824, l='ServerLevel[world]', x=400.39, y=128.84, z=511.39] died: Patrol was slain by Caravan Guard
+[03Sep2024 15:39:50.995] [Worker-Main-474/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 15:39:50.996] [Worker-Main-474/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 15:39:50.996] [Worker-Main-474/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 15:39:50.996] [Worker-Main-474/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 15:39:54.556] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.556] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.556] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.556] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.556] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.556] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.557] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.557] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.557] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.557] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.557] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.557] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.557] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:54.557] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[03Sep2024 15:39:55.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5678ms or 113 ticks behind
+[03Sep2024 15:39:56.320] [Worker-Main-476/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Sep2024 15:39:56.320] [Worker-Main-476/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Sep2024 15:39:56.817] [Worker-Main-491/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[03Sep2024 15:39:56.818] [Worker-Main-491/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[03Sep2024 15:39:56.818] [Worker-Main-491/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[03Sep2024 15:39:56.818] [Worker-Main-491/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[03Sep2024 15:40:20.683] [Worker-Main-476/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[03Sep2024 15:40:20.683] [Worker-Main-476/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[03Sep2024 15:40:20.683] [Worker-Main-476/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[03Sep2024 15:40:20.685] [Worker-Main-476/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[03Sep2024 15:40:20.686] [Worker-Main-476/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[03Sep2024 15:40:20.686] [Worker-Main-476/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[03Sep2024 15:40:20.686] [Worker-Main-476/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[03Sep2024 15:40:24.015] [pool-7-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=1307, y=83, z=3483}
+[03Sep2024 15:40:34.614] [Worker-Main-474/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[03Sep2024 15:40:49.873] [Worker-Main-591/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[03Sep2024 15:40:49.874] [Worker-Main-591/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[03Sep2024 15:40:49.875] [Worker-Main-591/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[03Sep2024 15:40:49.876] [Worker-Main-591/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[03Sep2024 15:40:49.876] [Worker-Main-591/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[03Sep2024 15:40:49.876] [Worker-Main-591/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[03Sep2024 15:40:49.877] [Worker-Main-591/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[03Sep2024 15:40:51.526] [Worker-Main-591/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1387, y=60, z=3116}
+[03Sep2024 15:42:27.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[03Sep2024 15:42:27.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[03Sep2024 15:42:27.892] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[03Sep2024 15:53:42.729] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 15:53:42.789] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 15:53:42.837] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 15:53:42.887] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 15:53:42.937] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 15:53:42.987] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 15:53:43.036] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 15:53:43.087] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 15:53:43.136] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 15:53:43.187] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 15:53:43.237] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 15:53:43.287] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 15:53:43.337] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 15:53:43.408] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 15:53:43.436] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 15:53:43.488] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 15:53:43.539] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 15:53:51.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:57037] logged in with entity id 165110 at (1322.300000011921, 68.0, 3344.300000011921)
+[03Sep2024 15:53:51.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[03Sep2024 15:53:51.402] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[03Sep2024 15:54:17.203] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[03Sep2024 15:55:10.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8155ms or 163 ticks behind
+[03Sep2024 15:57:47.689] [Worker-Main-605/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[03Sep2024 15:57:47.690] [Worker-Main-605/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[03Sep2024 15:57:47.690] [Worker-Main-605/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[03Sep2024 15:57:47.690] [Worker-Main-605/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[03Sep2024 15:58:04.237] [Worker-Main-605/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 15:58:04.237] [Worker-Main-605/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 15:58:04.237] [Worker-Main-605/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 15:58:04.237] [Worker-Main-605/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 15:58:06.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi moved too quickly! 3.8993020781331325,0.0,-9.238746574849301
+[03Sep2024 15:58:06.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3005ms or 60 ticks behind
+[03Sep2024 15:58:47.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mr_Millenomi: Set the time to 1000]
+[03Sep2024 15:59:45.263] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.263] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.263] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.263] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.263] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.264] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.265] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.265] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.265] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.265] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.265] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.265] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.265] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.265] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.266] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.266] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.267] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.267] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.267] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.267] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.267] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.267] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=71, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.268] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=72, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.269] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.270] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=73, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.271] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=74, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.272] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.274] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.274] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.274] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.274] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=75, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.274] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.274] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.274] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=76, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.275] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.276] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=77, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.277] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.278] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.278] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.278] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.278] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=78, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.279] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.280] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.280] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.280] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.280] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.280] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.280] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.280] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.280] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.280] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.281] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=79, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.281] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.281] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.281] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.281] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.281] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.282] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=80, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.283] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=81, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.284] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=82, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.285] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=83, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1379, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1378, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1377, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, 173], pos: BlockPos{x=1376, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1375, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.286] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1374, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1373, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1372, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1371, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1370, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1369, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1368, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1367, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1366, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1365, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1364, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1363, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.287] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1362, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 15:59:45.288] [Worker-Main-605/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [85, 173], pos: BlockPos{x=1361, y=84, z=2768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / plenty_of_golems:ancient_prismarine_ruins]
+[03Sep2024 16:00:17.712] [Worker-Main-618/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[03Sep2024 16:00:30.019] [Worker-Main-608/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 16:00:30.019] [Worker-Main-608/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[03Sep2024 16:00:30.019] [Worker-Main-608/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 16:00:30.019] [Worker-Main-608/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[03Sep2024 16:00:32.892] [Worker-Main-609/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[03Sep2024 16:00:54.635] [Worker-Main-609/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-12}
+[03Sep2024 16:00:54.635] [Worker-Main-609/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-14}
+[03Sep2024 16:00:54.635] [Worker-Main-609/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-10}
+[03Sep2024 16:00:54.635] [Worker-Main-609/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-14}
+[03Sep2024 16:00:54.635] [Worker-Main-609/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-12}
+[03Sep2024 16:00:54.635] [Worker-Main-609/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-10}
+[03Sep2024 16:07:57.969] [Worker-Main-617/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[03Sep2024 16:07:57.970] [Worker-Main-617/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[03Sep2024 16:07:57.970] [Worker-Main-617/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[03Sep2024 16:07:57.970] [Worker-Main-617/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[03Sep2024 16:07:57.970] [Worker-Main-617/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[03Sep2024 16:07:57.970] [Worker-Main-617/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[03Sep2024 16:22:26.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi fell from a high place
+[03Sep2024 16:23:24.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi moved too quickly! 0.0,-10.806526110008996,0.0
+[03Sep2024 16:23:25.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi fell from a high place
+[03Sep2024 16:24:11.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[03Sep2024 16:24:11.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[03Sep2024 16:24:11.590] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[03Sep2024 16:59:50.829] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 16:59:50.912] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 16:59:50.937] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 16:59:50.989] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 16:59:51.037] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 16:59:51.088] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 16:59:51.138] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 16:59:51.187] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 16:59:51.238] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 16:59:51.289] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 16:59:51.339] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 16:59:51.388] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 16:59:51.439] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 16:59:51.565] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 16:59:51.566] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 16:59:51.590] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 16:59:51.645] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 16:59:57.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:53183] logged in with entity id 191778 at (-1068.5874484829578, 56.0, 1976.2388937127866)
+[03Sep2024 16:59:57.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[03Sep2024 16:59:57.959] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[03Sep2024 17:00:18.447] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[03Sep2024 17:06:54.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi drowned
+[03Sep2024 17:13:19.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sheba'/114291, l='ServerLevel[world]', x=-1009.30, y=115.00, z=2051.30] died, message: 'Sheba was slain by Zombie'
+[03Sep2024 17:13:19.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sheba'/114291, l='ServerLevel[world]', x=-1009.30, y=115.00, z=2051.30] died: Sheba was slain by Zombie
+[03Sep2024 17:13:25.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Palma'/114276, l='ServerLevel[world]', x=-1007.53, y=113.00, z=2058.31] died, message: 'Palma was slain by Zombie'
+[03Sep2024 17:13:25.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Palma'/114276, l='ServerLevel[world]', x=-1007.53, y=113.00, z=2058.31] died: Palma was slain by Zombie
+[03Sep2024 17:34:00.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [The Brass Age]
+[03Sep2024 17:54:32.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Timed out
+[03Sep2024 17:54:32.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[03Sep2024 17:54:32.042] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[03Sep2024 18:18:21.753] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 18:18:21.820] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 18:18:21.837] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 18:18:21.889] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 18:18:21.938] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 18:18:21.988] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 18:18:22.037] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 18:18:22.093] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 18:18:22.139] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 18:18:22.190] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 18:18:22.238] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 18:18:22.288] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 18:18:22.337] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 18:18:22.455] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 18:18:22.456] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 18:18:22.490] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 18:18:22.543] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 18:18:29.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:50149] logged in with entity id 198538 at (-1070.0163511605654, 56.0, 1981.5038109352618)
+[03Sep2024 18:18:29.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[03Sep2024 18:18:29.446] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[03Sep2024 18:18:51.090] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[03Sep2024 18:21:36.178] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MoronicCape91 is f259bc7a-dd50-485b-9045-8625c0738aec
+[03Sep2024 18:21:36.243] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 18:21:36.256] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 18:21:36.303] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 18:21:36.358] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 18:21:36.406] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 18:21:36.455] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 18:21:36.504] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 18:21:36.559] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 18:21:36.603] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 18:21:36.654] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 18:21:36.703] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 18:21:36.758] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 18:21:37.018] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 18:21:37.022] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 18:21:37.026] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 18:21:37.038] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 18:21:43.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MoronicCape91[/93.34.145.55:36746] logged in with entity id 199055 at (-1071.6612362165456, 56.0, 1988.237500011921)
+[03Sep2024 18:21:43.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MoronicCape91 joined the game
+[03Sep2024 18:21:43.560] [Server thread/INFO] [Jade/]: Syncing config to MoronicCape91 (f259bc7a-dd50-485b-9045-8625c0738aec)
+[03Sep2024 18:21:45.846] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f259bc7a-dd50-485b-9045-8625c0738aec was loaded
+[03Sep2024 18:25:15.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Complex Curiosities]
+[03Sep2024 18:35:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Fwoomp!]
+[03Sep2024 18:42:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [The Parrots and the Bats]
+[03Sep2024 19:07:37.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Mr_Millenomi) moved wrongly! 0.27136356357755176
+[03Sep2024 19:13:06.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Mr_Millenomi) moved wrongly! 0.6347986157802552
+[03Sep2024 19:27:42.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MoronicCape91 moved wrongly!
+[03Sep2024 19:29:44.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[03Sep2024 19:29:44.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[03Sep2024 19:29:44.942] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[03Sep2024 19:29:46.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MoronicCape91 lost connection: Disconnected
+[03Sep2024 19:29:46.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MoronicCape91 left the game
+[03Sep2024 19:29:46.544] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f259bc7a-dd50-485b-9045-8625c0738aec was unloaded
+[03Sep2024 20:23:19.592] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[03Sep2024 20:23:19.660] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Sep2024 20:23:19.692] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Sep2024 20:23:19.739] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Sep2024 20:23:19.789] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Sep2024 20:23:19.838] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Sep2024 20:23:19.889] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Sep2024 20:23:19.938] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Sep2024 20:23:19.991] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Sep2024 20:23:20.039] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Sep2024 20:23:20.087] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Sep2024 20:23:20.139] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Sep2024 20:23:20.187] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Sep2024 20:23:20.310] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Sep2024 20:23:20.310] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Sep2024 20:23:20.342] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Sep2024 20:23:20.393] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Sep2024 20:23:26.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:51373] logged in with entity id 210279 at (-1107.3216143524842, 64.0, 1912.3652449379276)
+[03Sep2024 20:23:26.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[03Sep2024 20:23:26.877] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[03Sep2024 20:23:45.691] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[03Sep2024 21:50:21.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [A Pair of Giants]
+[03Sep2024 21:56:08.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Aileen'/219762, l='ServerLevel[world]', x=-1103.30, y=80.00, z=1977.45] died: Aileen hit the ground too hard
+[03Sep2024 21:57:04.087] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Ronnie'/219763, l='ServerLevel[world]', x=-1112.99, y=91.00, z=1991.69] died: Ronnie hit the ground too hard
+[03Sep2024 21:59:10.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[03Sep2024 21:59:10.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[03Sep2024 21:59:10.693] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded

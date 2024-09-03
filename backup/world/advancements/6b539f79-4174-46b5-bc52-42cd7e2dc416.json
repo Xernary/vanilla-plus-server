@@ -64,6 +64,7 @@
       "minecraft:lukewarm_ocean": "2024-08-26 22:06:00 +0000",
       "minecraft:river": "2024-08-26 21:28:19 +0000",
       "minecraft:snowy_plains": "2024-09-03 10:53:01 +0000",
+      "minecraft:stony_shore": "2024-09-03 12:40:20 +0000",
       "minecraft:dripstone_caves": "2024-08-26 20:46:39 +0000",
       "minecraft:snowy_taiga": "2024-09-02 22:44:47 +0000",
       "minecraft:grove": "2024-08-26 20:57:39 +0000",
@@ -135,11 +136,13 @@
     "criteria": {
       "minecraft:pillager": "2024-08-29 16:57:36 +0000",
       "minecraft:skeleton": "2024-08-26 21:23:14 +0000",
+      "minecraft:ravager": "2024-09-03 12:47:58 +0000",
       "minecraft:ghast": "2024-09-01 14:36:11 +0000",
       "minecraft:vindicator": "2024-08-26 22:12:57 +0000",
       "minecraft:spider": "2024-08-26 20:50:20 +0000",
       "minecraft:piglin_brute": "2024-09-02 22:08:05 +0000",
       "minecraft:creeper": "2024-08-26 21:59:54 +0000",
+      "minecraft:evoker": "2024-09-03 12:50:14 +0000",
       "quark:forgotten": "2024-08-30 17:25:45 +0000",
       "minecraft:phantom": "2024-08-29 14:51:46 +0000",
       "minecraft:witch": "2024-08-27 15:51:35 +0000",
@@ -148,6 +151,7 @@
       "minecraft:cave_spider": "2024-08-27 16:01:56 +0000",
       "minecraft:piglin": "2024-09-01 14:30:05 +0000",
       "minecraft:enderman": "2024-08-27 15:50:21 +0000",
+      "minecraft:vex": "2024-09-03 12:50:17 +0000",
       "minecraft:zombie": "2024-08-26 21:29:39 +0000"
     },
     "done": false
@@ -160,6 +164,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-09-03 12:40:58 +0000",
       "cooked_beef": "2024-08-26 21:00:30 +0000",
       "baked_potato": "2024-08-27 16:15:22 +0000",
       "tropical_fish": "2024-08-29 14:20:30 +0000",

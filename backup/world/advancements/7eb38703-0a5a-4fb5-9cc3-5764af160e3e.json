@@ -121,9 +121,11 @@
       "minecraft:spider": "2024-08-27 16:07:08 +0000",
       "minecraft:piglin_brute": "2024-08-31 17:04:20 +0000",
       "minecraft:creeper": "2024-08-28 17:22:52 +0000",
+      "minecraft:zombified_piglin": "2024-09-03 13:52:25 +0000",
       "minecraft:piglin": "2024-08-31 16:32:55 +0000",
       "minecraft:silverfish": "2024-08-26 21:39:37 +0000",
       "minecraft:zombie": "2024-08-26 20:51:07 +0000",
+      "quark:foxhound": "2024-09-03 14:18:11 +0000",
       "minecraft:zombie_villager": "2024-08-30 17:23:17 +0000"
     },
     "done": false
@@ -506,7 +508,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-08-31 16:46:54 +0000",
       "minecraft:soul_sand_valley": "2024-08-30 18:11:01 +0000",
-      "minecraft:nether_wastes": "2024-08-31 16:47:41 +0000"
+      "minecraft:nether_wastes": "2024-08-31 16:47:41 +0000",
+      "minecraft:basalt_deltas": "2024-09-03 14:33:22 +0000"
     },
     "done": false
   },
@@ -564,9 +567,27 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-09-02 21:24:01 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2024-09-02 21:33:17 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-09-02 21:54:35 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-09-02 22:14:27 +0000"
     },
     "done": true
   },
@@ -582,27 +603,33 @@
     },
     "done": true
   },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2024-09-02 22:14:27 +0000"
-    },
-    "done": true
-  },
   "create:fan_processing": {
     "criteria": {
       "0": "2024-09-02 22:54:42 +0000"
     },
     "done": true
   },
-  "create:andesite_casing": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "0": "2024-09-02 21:24:01 +0000"
+      "killed_ghast": "2024-09-03 14:10:04 +0000"
     },
     "done": true
   },
-  "create:shifting_gears": {
+  "immersive_armors:recipes/misc/wither": {
     "criteria": {
-      "0": "2024-09-02 21:54:35 +0000"
+      "has_item": "2024-09-03 14:28:54 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:i_aint_afraid": {
+    "criteria": {
+      "i_aint_afraid_0": "2024-09-03 14:32:20 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:ash_forest_advancement": {
+    "criteria": {
+      "ash_forest_advancement_0": "2024-09-03 14:12:14 +0000"
     },
     "done": true
   },

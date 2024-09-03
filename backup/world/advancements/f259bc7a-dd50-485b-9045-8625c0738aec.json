@@ -58,6 +58,7 @@
       "minecraft:birch_forest": "2024-09-02 21:24:16 +0000",
       "minecraft:beach": "2024-09-02 20:36:23 +0000",
       "minecraft:river": "2024-09-02 20:25:45 +0000",
+      "minecraft:dripstone_caves": "2024-09-03 18:50:41 +0000",
       "minecraft:forest": "2024-09-02 20:36:29 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-02 21:32:53 +0000",
       "minecraft:plains": "2024-09-02 20:27:45 +0000"
@@ -108,6 +109,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "shepherds_pie": "2024-09-03 19:12:37 +0000",
       "pasta_with_meatballs": "2024-09-02 21:43:53 +0000",
       "stuffed_pumpkin": "2024-09-02 21:00:28 +0000",
       "roast_chicken": "2024-09-02 20:53:37 +0000"
@@ -220,6 +222,12 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2024-09-02 22:27:26 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-09-03 18:38:15 +0000"
     },
     "done": true
   },
