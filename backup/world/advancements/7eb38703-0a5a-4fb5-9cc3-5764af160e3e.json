@@ -115,13 +115,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-09-04 13:15:02 +0000",
+      "minecraft:pillager": "2024-09-04 13:31:36 +0000",
       "minecraft:skeleton": "2024-08-26 21:58:49 +0000",
       "minecraft:ghast": "2024-08-31 16:46:27 +0000",
       "minecraft:hoglin": "2024-08-31 17:21:34 +0000",
+      "minecraft:vindicator": "2024-09-04 13:32:21 +0000",
+      "minecraft:magma_cube": "2024-09-04 13:12:45 +0000",
       "minecraft:spider": "2024-08-27 16:07:08 +0000",
       "minecraft:piglin_brute": "2024-08-31 17:04:20 +0000",
       "minecraft:creeper": "2024-08-28 17:22:52 +0000",
       "minecraft:zombified_piglin": "2024-09-03 13:52:25 +0000",
+      "minecraft:wither_skeleton": "2024-09-04 12:50:58 +0000",
+      "quark:wraith": "2024-09-04 13:08:34 +0000",
       "minecraft:piglin": "2024-08-31 16:32:55 +0000",
       "minecraft:silverfish": "2024-08-26 21:39:37 +0000",
       "minecraft:zombie": "2024-08-26 20:51:07 +0000",
@@ -340,7 +346,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "tavern_dark_oak": "2024-08-28 17:25:10 +0000"
+      "tavern_dark_oak": "2024-08-28 17:25:10 +0000",
+      "illager_camp": "2024-09-04 13:32:18 +0000"
     },
     "done": false
   },
@@ -615,6 +622,12 @@
     },
     "done": true
   },
+  "luminous_nether:ash_forest_advancement": {
+    "criteria": {
+      "ash_forest_advancement_0": "2024-09-03 14:12:14 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2024-09-03 14:28:54 +0000"
@@ -627,9 +640,87 @@
     },
     "done": true
   },
-  "luminous_nether:ash_forest_advancement": {
+  "create:wrench_goggles": {
     "criteria": {
-      "ash_forest_advancement_0": "2024-09-03 14:12:14 +0000"
+      "0": "2024-09-04 14:44:33 +0000"
+    },
+    "done": false
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-09-04 14:05:28 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-09-04 14:06:17 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2024-09-04 14:43:52 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-09-04 15:07:26 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_port": "2024-09-04 12:55:04 +0000"
+    },
+    "done": false
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-09-04 12:56:20 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-09-04 14:41:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-09-04 13:24:04 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-09-04 14:32:43 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_port": {
+    "criteria": {
+      "nova_structures:nether_port": "2024-09-04 12:55:04 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-09-04 14:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-09-04 14:51:08 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2024-09-04 14:25:41 +0000"
     },
     "done": true
   },

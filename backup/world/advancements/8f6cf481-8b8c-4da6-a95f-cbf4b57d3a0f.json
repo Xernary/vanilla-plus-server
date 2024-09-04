@@ -60,6 +60,7 @@
       "minecraft:river": "2024-08-26 20:55:08 +0000",
       "minecraft:lukewarm_ocean": "2024-08-26 22:02:57 +0000",
       "minecraft:stony_shore": "2024-09-03 16:01:28 +0000",
+      "minecraft:dripstone_caves": "2024-09-04 14:59:09 +0000",
       "minecraft:grove": "2024-08-26 20:44:42 +0000",
       "minecraft:swamp": "2024-09-02 20:22:19 +0000",
       "minecraft:jagged_peaks": "2024-08-26 20:59:19 +0000",
@@ -146,12 +147,14 @@
       "minecraft:pillager": "2024-08-26 20:56:19 +0000",
       "minecraft:blaze": "2024-09-03 15:05:09 +0000",
       "minecraft:skeleton": "2024-08-26 20:51:13 +0000",
+      "minecraft:ravager": "2024-09-04 14:12:40 +0000",
       "minecraft:ghast": "2024-09-02 21:53:42 +0000",
       "minecraft:guardian": "2024-08-29 15:22:17 +0000",
       "minecraft:vindicator": "2024-08-27 16:48:10 +0000",
       "minecraft:magma_cube": "2024-09-03 15:10:59 +0000",
       "minecraft:spider": "2024-08-26 21:25:33 +0000",
       "minecraft:creeper": "2024-08-26 22:26:11 +0000",
+      "minecraft:evoker": "2024-09-04 14:23:39 +0000",
       "minecraft:wither_skeleton": "2024-09-03 15:01:52 +0000",
       "minecraft:cave_spider": "2024-09-03 11:13:40 +0000",
       "minecraft:piglin": "2024-09-03 14:47:02 +0000",
@@ -196,7 +199,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-08-26 21:51:09 +0000",
-      "opened_chest": "2024-08-26 21:22:40 +0000"
+      "opened_chest": "2024-08-26 21:22:40 +0000",
+      "opened_cart": "2024-09-04 15:05:23 +0000"
     },
     "done": false
   },
@@ -848,6 +852,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2024-09-04 15:44:31 +0000",
       "minecraft:pig": "2024-09-03 18:42:01 +0000"
     },
     "done": false
@@ -891,6 +896,36 @@
   "create:funnel": {
     "criteria": {
       "0": "2024-09-04 09:28:18 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:i_aint_afraid": {
+    "criteria": {
+      "i_aint_afraid_0": "2024-09-04 13:15:16 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-09-04 14:49:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-09-04 15:05:23 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-09-04 15:06:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2024-09-04 15:07:00 +0000"
     },
     "done": true
   },

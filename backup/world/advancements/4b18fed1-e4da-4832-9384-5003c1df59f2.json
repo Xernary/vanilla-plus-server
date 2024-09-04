@@ -154,6 +154,7 @@
       "minecraft:piglin_brute": "2024-08-31 16:49:38 +0000",
       "minecraft:creeper": "2024-08-26 20:46:16 +0000",
       "minecraft:slime": "2024-09-03 12:52:51 +0000",
+      "minecraft:phantom": "2024-09-04 12:28:33 +0000",
       "minecraft:witch": "2024-09-03 13:03:28 +0000",
       "minecraft:cave_spider": "2024-09-03 13:03:32 +0000",
       "minecraft:piglin": "2024-08-31 16:39:32 +0000",
@@ -424,6 +425,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "vegetable_soup": "2024-09-04 12:30:59 +0000",
       "roast_chicken": "2024-08-30 15:23:53 +0000",
       "pasta_with_mutton_chop": "2024-08-30 16:43:49 +0000"
     },
@@ -561,6 +563,36 @@
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2024-09-03 13:34:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-09-04 12:30:59 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:ash_forest_advancement": {
+    "criteria": {
+      "ash_forest_advancement_0": "2024-09-04 12:36:41 +0000"
+    },
+    "done": true
+  },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2024-09-04 13:25:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-09-04 13:29:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-09-04 13:58:28 +0000"
     },
     "done": true
   },
