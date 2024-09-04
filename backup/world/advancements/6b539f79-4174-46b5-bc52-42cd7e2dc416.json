@@ -432,7 +432,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2024-08-28 22:39:10 +0000"
+      "potato": "2024-08-28 22:39:10 +0000",
+      "wheat": "2024-09-04 10:54:58 +0000"
     },
     "done": false
   },
