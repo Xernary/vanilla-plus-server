@@ -534,24 +534,6 @@
     },
     "done": true
   },
-  "luminous_nether:fungal_plains_advancement": {
-    "criteria": {
-      "fungal_plains_advancement_0": "2024-09-02 21:47:50 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/wither": {
-    "criteria": {
-      "has_item": "2024-09-02 21:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2024-09-02 21:47:57 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-09-02 21:47:49 +0000"
@@ -564,9 +546,39 @@
     },
     "done": true
   },
+  "luminous_nether:fungal_plains_advancement": {
+    "criteria": {
+      "fungal_plains_advancement_0": "2024-09-02 21:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-09-02 21:47:57 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-09-02 21:58:21 +0000"
+    },
+    "done": true
+  },
   "luminous_nether:ash_forest_advancement": {
     "criteria": {
       "ash_forest_advancement_0": "2024-09-02 22:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-09-05 10:59:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-09-05 11:01:40 +0000"
     },
     "done": true
   },
