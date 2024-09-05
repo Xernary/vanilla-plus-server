@@ -627,7 +627,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-08-29 13:17:01 +0000",
-      "in_better_spider_dungeon": "2024-08-29 15:51:21 +0000"
+      "in_better_spider_dungeon": "2024-08-29 15:51:21 +0000",
+      "in_better_monster_room": "2024-09-05 14:17:36 +0000"
     },
     "done": false
   },
@@ -926,6 +927,30 @@
   "alexsmobs:alexsmobs/ghostly_pickaxe": {
     "criteria": {
       "ghostly_pickaxe": "2024-09-04 15:07:00 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-09-05 14:13:01 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-09-05 14:17:36 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2024-09-05 14:56:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-09-05 19:52:57 +0000"
     },
     "done": true
   },
