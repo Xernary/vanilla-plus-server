@@ -84,6 +84,7 @@
       "minecraft:flower_forest": "2024-08-27 16:21:13 +0000",
       "minecraft:frozen_peaks": "2024-08-26 21:06:28 +0000",
       "minecraft:old_growth_birch_forest": "2024-08-27 16:51:42 +0000",
+      "minecraft:deep_dark": "2024-09-06 15:14:13 +0000",
       "minecraft:meadow": "2024-08-26 21:18:20 +0000",
       "minecraft:savanna": "2024-08-26 21:53:48 +0000",
       "minecraft:plains": "2024-08-26 21:03:11 +0000"
@@ -728,6 +729,30 @@
   "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
     "criteria": {
       "requirement": "2024-09-06 11:22:43 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-09-06 15:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-09-06 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-09-06 15:45:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-09-06 17:03:19 +0000"
     },
     "done": true
   },

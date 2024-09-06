@@ -1181,3 +1181,814 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [06Sep2024 10:26:07.042] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=-54, z=29}
 [06Sep2024 11:08:07.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Gave 10 [Coal] to evzi]
 [06Sep2024 11:22:43.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi has completed the challenge [Staff of Blood]
+[06Sep2024 12:00:43.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Dana'/75175, l='ServerLevel[world]', x=-1155.46, y=70.00, z=2085.46] died: Dana was crushed by evzi's giant block of ice
+[06Sep2024 12:15:00.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[06Sep2024 12:15:00.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[06Sep2024 12:15:00.135] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[06Sep2024 12:54:05.689] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[06Sep2024 12:54:05.762] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 12:54:05.808] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 12:54:05.858] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 12:54:05.907] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 12:54:05.956] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 12:54:06.006] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 12:54:06.056] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 12:54:06.106] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 12:54:06.155] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 12:54:06.206] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 12:54:06.256] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 12:54:06.306] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 12:54:06.431] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 12:54:06.431] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 12:54:06.459] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 12:54:06.515] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 12:54:13.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/87.13.241.58:57482] logged in with entity id 78367 at (-1160.2737384080758, 61.0, 2091.0162518366997)
+[06Sep2024 12:54:13.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[06Sep2024 12:54:13.363] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[06Sep2024 12:54:13.459] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[06Sep2024 12:58:45.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[06Sep2024 12:58:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[06Sep2024 12:58:45.236] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[06Sep2024 13:17:25.729] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[06Sep2024 13:17:25.815] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 13:17:25.855] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 13:17:25.912] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 13:17:25.958] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 13:17:26.004] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 13:17:26.053] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 13:17:26.123] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 13:17:26.158] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 13:17:26.204] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 13:17:26.267] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 13:17:26.314] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 13:17:26.360] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 13:17:26.504] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 13:17:26.504] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 13:17:26.532] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 13:17:26.594] [Netty Epoll Server IO #15/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 13:17:33.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/87.13.241.58:58440] logged in with entity id 79213 at (-1165.1123408870878, 66.0, 2090.591283969656)
+[06Sep2024 13:17:33.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[06Sep2024 13:17:33.429] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[06Sep2024 13:17:33.504] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[06Sep2024 13:17:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Set the weather to clear]
+[06Sep2024 13:20:02.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BowmanEntity['Patrol'/79955, l='ServerLevel[world]', x=-1276.28, y=72.83, z=2106.46] died: Patrol's atoms were crushed in evzi's black hole
+[06Sep2024 13:20:03.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Patrol'/79953, l='ServerLevel[world]', x=-1276.47, y=72.75, z=2105.75] died: Patrol's atoms were crushed in evzi's black hole
+[06Sep2024 13:20:06.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BowmanEntity['Patrol'/79954, l='ServerLevel[world]', x=-1276.49, y=72.70, z=2106.26] died: Patrol's atoms were crushed in evzi's black hole
+[06Sep2024 13:20:09.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Patrol'/79950, l='ServerLevel[world]', x=-1276.27, y=72.83, z=2106.88] died: Patrol's atoms were crushed in evzi's black hole
+[06Sep2024 13:20:09.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Patrol'/79949, l='ServerLevel[world]', x=-1276.69, y=72.65, z=2106.93] died: Patrol's atoms were crushed in evzi's black hole
+[06Sep2024 13:20:09.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Patrol'/79951, l='ServerLevel[world]', x=-1276.42, y=72.68, z=2106.88] died: Patrol's atoms were crushed in evzi's black hole
+[06Sep2024 13:20:11.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Patrol'/79952, l='ServerLevel[world]', x=-1276.39, y=72.65, z=2106.83] died: Patrol's atoms were crushed in evzi's black hole
+[06Sep2024 13:20:21.432] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Patrol Leader'/79948, l='ServerLevel[world]', x=-1276.52, y=72.69, z=2106.81] died: Patrol Leader's atoms were crushed in evzi's black hole
+[06Sep2024 13:21:44.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HorsemanEntity['Patrol'/79958, l='ServerLevel[world]', x=-1224.60, y=72.00, z=2051.44] died: Patrol was swarmed by evzi
+[06Sep2024 13:24:06.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HorsemanEntity['Patrol'/79959, l='ServerLevel[world]', x=-1224.04, y=68.80, z=2079.60] died: Patrol was slain by evzi
+[06Sep2024 13:24:23.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Patrol'/79961, l='ServerLevel[world]', x=-1240.58, y=64.87, z=2127.26] died: Patrol couldn't take evzi's heat
+[06Sep2024 13:24:32.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Patrol'/79960, l='ServerLevel[world]', x=-1243.70, y=64.00, z=2125.31] died: Patrol couldn't take evzi's heat
+[06Sep2024 13:24:49.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CrossBowmanEntity['Patrol'/79956, l='ServerLevel[world]', x=-1272.70, y=68.00, z=2123.70] died: Patrol was burnt to a crisp whilst fighting evzi
+[06Sep2024 13:24:58.885] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CrossBowmanEntity['Patrol'/79957, l='ServerLevel[world]', x=-1301.48, y=72.00, z=2118.64] died: Patrol was crushed by evzi's giant block of ice
+[06Sep2024 13:31:09.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> 26
+[06Sep2024 13:59:49.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[06Sep2024 13:59:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[06Sep2024 13:59:49.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[06Sep2024 13:59:57.597] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /87.13.241.58:59467: Failed to verify username!
+[06Sep2024 13:59:57.598] [User Authenticator #5/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'evzi' tried to join with an invalid session
+[06Sep2024 13:59:57.626] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /87.13.241.58:59467 lost connection: Failed to verify username!
+[06Sep2024 14:00:01.992] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /87.13.241.58:59472: Failed to verify username!
+[06Sep2024 14:00:01.993] [User Authenticator #6/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'evzi' tried to join with an invalid session
+[06Sep2024 14:00:02.026] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /87.13.241.58:59472 lost connection: Failed to verify username!
+[06Sep2024 14:10:51.524] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77e42623[id=<null>,name=evzi,properties={},legacy=false] (/87.13.241.58:59750) lost connection: Disconnected
+[06Sep2024 14:10:54.358] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[06Sep2024 14:10:54.406] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 14:10:54.454] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 14:10:54.505] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 14:10:54.554] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 14:10:54.604] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 14:10:54.654] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 14:10:54.704] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 14:10:54.754] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 14:10:54.803] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 14:10:54.854] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 14:10:54.904] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 14:10:54.954] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 14:10:55.073] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 14:10:55.074] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 14:10:55.108] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 14:10:55.162] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 14:11:01.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/87.13.241.58:59757] logged in with entity id 109827 at (-423.9892643291566, 64.0, 1989.7808332373786)
+[06Sep2024 14:11:01.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[06Sep2024 14:11:01.933] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[06Sep2024 14:11:02.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[06Sep2024 14:11:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Set the weather to clear]
+[06Sep2024 14:25:49.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fisk of the Sand'/113357, l='ServerLevel[world]', x=-622.52, y=6.50, z=2254.50] died: Fisk of the Sand was swarmed by evzi
+[06Sep2024 14:32:12.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Set the weather to clear]
+[06Sep2024 14:35:25.580] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marshall'/117938, l='ServerLevel[world]', x=-1028.49, y=76.00, z=2459.48] died, message: 'Marshall was slain by Vindicator'
+[06Sep2024 14:35:25.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marshall'/117938, l='ServerLevel[world]', x=-1028.49, y=76.00, z=2459.48] died: Marshall was slain by Vindicator
+[06Sep2024 14:35:28.893] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 14:36:25.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[06Sep2024 14:36:25.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[06Sep2024 14:36:25.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[06Sep2024 14:51:32.288] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[06Sep2024 14:51:32.361] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 14:51:32.409] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 14:51:32.460] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 14:51:32.508] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 14:51:32.558] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 14:51:32.607] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 14:51:32.658] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 14:51:32.708] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 14:51:32.758] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 14:51:32.807] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 14:51:32.857] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 14:51:32.908] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 14:51:33.036] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 14:51:33.036] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 14:51:33.060] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 14:51:33.112] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 14:51:40.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/87.13.241.58:60686] logged in with entity id 119159 at (-614.7268434820389, 67.0, 2416.104243079384)
+[06Sep2024 14:51:40.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[06Sep2024 14:51:40.083] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[06Sep2024 14:51:40.560] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[06Sep2024 14:52:48.545] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 14:53:06.787] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=531, y=-58, z=39}
+[06Sep2024 14:53:06.788] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=536, y=-58, z=39}
+[06Sep2024 14:53:06.788] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=539, y=-58, z=40}
+[06Sep2024 14:53:06.788] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=539, y=-58, z=37}
+[06Sep2024 14:53:13.399] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=306, y=-58, z=30}
+[06Sep2024 14:53:13.399] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=305, y=-58, z=29}
+[06Sep2024 14:53:17.396] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=322, y=-59, z=29}
+[06Sep2024 14:53:17.396] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=320, y=-59, z=27}
+[06Sep2024 14:53:17.396] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=323, y=-55, z=28}
+[06Sep2024 14:53:17.397] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=320, y=-54, z=26}
+[06Sep2024 14:53:17.397] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=320, y=-54, z=32}
+[06Sep2024 14:53:17.416] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=324, y=-60, z=47}
+[06Sep2024 14:53:17.416] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=325, y=-60, z=47}
+[06Sep2024 14:53:17.416] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=324, y=-59, z=46}
+[06Sep2024 14:53:17.417] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=328, y=-60, z=50}
+[06Sep2024 14:53:17.417] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=321, y=-60, z=49}
+[06Sep2024 14:53:17.417] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=321, y=-60, z=50}
+[06Sep2024 14:53:17.417] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=328, y=-60, z=49}
+[06Sep2024 14:53:17.417] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=329, y=-59, z=50}
+[06Sep2024 14:53:17.417] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=320, y=-59, z=49}
+[06Sep2024 14:53:19.100] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=359, y=-59, z=28}
+[06Sep2024 14:53:19.101] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=361, y=-59, z=28}
+[06Sep2024 14:53:19.101] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=360, y=-59, z=28}
+[06Sep2024 14:53:19.101] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=363, y=-59, z=30}
+[06Sep2024 14:53:19.101] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=362, y=-58, z=30}
+[06Sep2024 14:53:19.101] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=359, y=-51, z=31}
+[06Sep2024 14:53:19.101] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=365, y=-59, z=34}
+[06Sep2024 14:53:19.101] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=357, y=-58, z=34}
+[06Sep2024 14:53:19.102] [Worker-Main-250/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=359, y=-51, z=34}
+[06Sep2024 14:53:32.599] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=322, y=-59, z=29}
+[06Sep2024 14:53:32.599] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=320, y=-59, z=27}
+[06Sep2024 14:53:32.599] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=323, y=-55, z=28}
+[06Sep2024 14:53:32.599] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=320, y=-54, z=26}
+[06Sep2024 14:53:32.599] [Worker-Main-245/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=320, y=-54, z=32}
+[06Sep2024 14:54:28.059] [Worker-Main-256/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[06Sep2024 14:54:28.059] [Worker-Main-256/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[06Sep2024 14:55:28.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[06Sep2024 14:57:17.053] [Worker-Main-247/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[06Sep2024 14:57:46.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi moved too quickly! 7.96531000910727,-1.194999962117933,-6.0322091419120625
+[06Sep2024 14:59:28.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Set the weather to clear]
+[06Sep2024 15:04:55.408] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 15:05:01.912] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[06Sep2024 15:05:01.975] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 15:05:02.005] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 15:05:02.052] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 15:05:02.096] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 15:05:02.151] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 15:05:02.195] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 15:05:02.255] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 15:05:02.303] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 15:05:02.353] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 15:05:02.396] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 15:05:02.444] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 15:05:02.494] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 15:05:02.619] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 15:05:02.619] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 15:05:02.647] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 15:05:02.703] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 15:05:09.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:56782] logged in with entity id 127321 at (-1073.5165672611508, 56.0, 1991.9038402719348)
+[06Sep2024 15:05:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[06Sep2024 15:05:09.561] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[06Sep2024 15:05:10.321] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[06Sep2024 15:05:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> se vabe
+[06Sep2024 15:05:29.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Se vabbé
+[06Sep2024 15:05:32.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mr_Millenomi> Venghi su ds
+[06Sep2024 15:09:01.225] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 15:16:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi has reached the goal [This Belongs in a Museum]
+[06Sep2024 15:21:09.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi has completed the challenge [It Spreads]
+[06Sep2024 15:22:17.043] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 15:25:14.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[06Sep2024 15:25:14.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[06Sep2024 15:25:14.646] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[06Sep2024 15:34:44.546] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 15:37:51.250] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 15:38:44.544] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[06Sep2024 15:38:44.599] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 15:38:44.650] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 15:38:44.697] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 15:38:44.748] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 15:38:44.797] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 15:38:44.847] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 15:38:44.897] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 15:38:44.947] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 15:38:44.996] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 15:38:45.048] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 15:38:45.096] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 15:38:45.146] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 15:38:45.231] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 15:38:45.247] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 15:38:45.297] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 15:38:45.348] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 15:38:52.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:57527] logged in with entity id 140334 at (-1090.300000011921, 72.0, 1971.6229048006576)
+[06Sep2024 15:38:52.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[06Sep2024 15:38:52.166] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[06Sep2024 15:38:52.267] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[06Sep2024 15:43:32.489] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 15:45:51.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi has made the advancement [Sneak 100]
+[06Sep2024 15:48:01.052] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 15:48:45.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/125137, l='ServerLevel[world]', x=1315.34, y=-30.00, z=2452.50] died: Corvin the Rotten was obliterated by a sonically-charged shriek
+[06Sep2024 15:58:50.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[06Sep2024 15:58:50.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[06Sep2024 15:58:50.648] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[06Sep2024 16:16:59.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[06Sep2024 16:16:59.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[06Sep2024 16:16:59.785] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[06Sep2024 16:21:59.268] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[06Sep2024 16:21:59.283] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 16:21:59.333] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 16:21:59.383] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 16:21:59.432] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 16:21:59.482] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 16:21:59.531] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 16:21:59.581] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 16:21:59.632] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 16:21:59.682] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 16:21:59.733] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 16:21:59.781] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 16:21:59.831] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 16:21:59.902] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 16:21:59.931] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 16:21:59.982] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 16:22:00.035] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 16:22:07.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:58610] logged in with entity id 150340 at (-1091.5978609932283, 72.0, 1967.1235561431295)
+[06Sep2024 16:22:07.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[06Sep2024 16:22:07.165] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[06Sep2024 16:22:07.273] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[06Sep2024 16:30:01.842] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[06Sep2024 16:30:01.925] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 16:30:01.971] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 16:30:02.023] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 16:30:02.068] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 16:30:02.118] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 16:30:02.168] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 16:30:02.222] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 16:30:02.266] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 16:30:02.317] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 16:30:02.368] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 16:30:02.418] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 16:30:02.467] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 16:30:02.592] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 16:30:02.592] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 16:30:02.619] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 16:30:02.675] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 16:30:09.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/87.13.241.58:62971] logged in with entity id 151829 at (1313.530893801529, -52.0, 2459.9163717458196)
+[06Sep2024 16:30:09.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[06Sep2024 16:30:09.634] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[06Sep2024 16:30:10.134] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[06Sep2024 16:32:04.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Set the weather to clear]
+[06Sep2024 16:32:50.754] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[06Sep2024 16:49:23.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi moved too quickly! 0.0,-12.0,0.0
+[06Sep2024 17:03:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi has made the advancement [Surge Protector]
+[06Sep2024 17:03:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi has made the advancement [Surge Protector]
+[06Sep2024 17:08:16.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Set the weather to clear]
+[06Sep2024 17:18:41.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[06Sep2024 17:18:41.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[06Sep2024 17:18:41.737] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[06Sep2024 17:39:14.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[06Sep2024 17:39:14.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[06Sep2024 17:39:14.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[06Sep2024 21:19:36.556] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[06Sep2024 21:19:36.631] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 21:19:36.633] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 21:19:36.683] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 21:19:36.743] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 21:19:36.793] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 21:19:36.842] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 21:19:36.883] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 21:19:36.949] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 21:19:36.993] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 21:19:37.033] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 21:19:37.090] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 21:19:37.131] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 21:19:37.293] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 21:19:37.294] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 21:19:37.296] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 21:19:37.337] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 21:19:43.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:64225] logged in with entity id 174024 at (-1102.101998069966, 72.0, 1976.721884016346)
+[06Sep2024 21:19:43.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[06Sep2024 21:19:43.766] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[06Sep2024 21:19:44.600] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[06Sep2024 21:29:38.540] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Igoyess is 90ebe76f-2322-4311-9218-17e78c32467c
+[06Sep2024 21:29:38.630] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 21:29:38.649] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 21:29:38.700] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 21:29:38.746] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 21:29:38.799] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 21:29:38.843] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 21:29:38.901] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 21:29:38.944] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 21:29:38.994] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 21:29:39.050] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 21:29:39.096] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 21:29:39.146] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 21:29:39.288] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 21:29:39.289] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 21:29:39.594] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 21:29:39.623] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 21:29:46.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Igoyess[/109.115.27.223:63290] logged in with entity id 178557 at (-1075.2473638912033, 56.0, 1992.6511381700427)
+[06Sep2024 21:29:46.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess joined the game
+[06Sep2024 21:29:46.660] [Server thread/INFO] [Jade/]: Syncing config to Igoyess (90ebe76f-2322-4311-9218-17e78c32467c)
+[06Sep2024 21:29:47.543] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 90ebe76f-2322-4311-9218-17e78c32467c was loaded
+[06Sep2024 21:43:24.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[06Sep2024 21:43:24.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[06Sep2024 21:43:24.736] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[06Sep2024 21:52:09.007] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[06Sep2024 21:52:09.052] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 21:52:09.095] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 21:52:09.149] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 21:52:09.199] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 21:52:09.245] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 21:52:09.295] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 21:52:09.347] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 21:52:09.395] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 21:52:09.445] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 21:52:09.496] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 21:52:09.547] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 21:52:09.597] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 21:52:09.670] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 21:52:09.700] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 21:52:09.751] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 21:52:09.803] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 21:52:17.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:65531] logged in with entity id 183548 at (-1095.6936386494024, 72.0, 1981.4862924349068)
+[06Sep2024 21:52:17.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[06Sep2024 21:52:17.108] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[06Sep2024 21:52:17.171] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[06Sep2024 21:54:42.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HorsemanEntity['Patrol'/179704, l='ServerLevel[world]', x=-1111.31, y=69.31, z=1939.09] died: Patrol was slain by Mr_Millenomi
+[06Sep2024 21:54:57.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Patrol Leader'/179698, l='ServerLevel[world]', x=-1130.71, y=65.00, z=1944.95] died: Patrol Leader was slain by Mr_Millenomi
+[06Sep2024 21:55:06.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Patrol'/179701, l='ServerLevel[world]', x=-1131.41, y=64.00, z=1948.92] died: Patrol was slain by Mr_Millenomi
+[06Sep2024 21:55:49.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BowmanEntity['Patrol'/179702, l='ServerLevel[world]', x=-1086.22, y=71.00, z=1937.61] died: Patrol was slain by Mr_Millenomi
+[06Sep2024 21:56:19.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CrossBowmanEntity['Patrol'/179703, l='ServerLevel[world]', x=-1085.31, y=73.00, z=1941.69] died: Patrol was killed by Mr_Millenomi's magic missile
+[06Sep2024 21:57:09.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Patrol'/179705, l='ServerLevel[world]', x=-1096.05, y=70.00, z=1921.70] died: Patrol was slain by Mr_Millenomi
+[06Sep2024 21:57:13.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess has made the advancement [The Parrots and the Bats]
+[06Sep2024 21:57:49.107] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Patrol'/179699, l='ServerLevel[world]', x=-1095.52, y=78.00, z=1955.33] died: Patrol was slain by Mr_Millenomi
+[06Sep2024 21:58:09.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Patrol'/179700, l='ServerLevel[world]', x=-1100.51, y=76.28, z=1957.64] died: Patrol was slain by Mr_Millenomi
+[06Sep2024 22:03:34.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[06Sep2024 22:03:34.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[06Sep2024 22:03:34.885] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[06Sep2024 22:04:05.812] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[06Sep2024 22:04:05.842] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 22:04:05.890] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 22:04:05.943] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 22:04:05.993] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 22:04:06.044] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 22:04:06.094] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 22:04:06.144] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 22:04:06.192] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 22:04:06.243] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 22:04:06.293] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 22:04:06.342] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 22:04:06.392] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 22:04:06.466] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 22:04:06.492] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 22:04:06.543] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 22:04:06.595] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 22:04:13.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:49293] logged in with entity id 188760 at (-1065.5823977192617, 56.875, 1974.6498150210925)
+[06Sep2024 22:04:13.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[06Sep2024 22:04:13.517] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[06Sep2024 22:04:13.529] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[06Sep2024 22:04:31.057] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zein25 is a2504168-e262-4b64-995f-72e629510025
+[06Sep2024 22:04:31.131] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Sep2024 22:04:31.147] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Sep2024 22:04:31.197] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Sep2024 22:04:31.245] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Sep2024 22:04:31.295] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Sep2024 22:04:31.344] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Sep2024 22:04:31.395] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Sep2024 22:04:31.445] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Sep2024 22:04:31.495] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Sep2024 22:04:31.544] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Sep2024 22:04:31.595] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Sep2024 22:04:31.644] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Sep2024 22:04:31.825] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Sep2024 22:04:31.825] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Sep2024 22:04:31.830] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Sep2024 22:04:31.860] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Sep2024 22:04:38.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zein25[/109.115.27.223:61447] logged in with entity id 188831 at (-1193.5, 69.0, 2104.5)
+[06Sep2024 22:04:38.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 joined the game
+[06Sep2024 22:04:38.499] [Server thread/INFO] [Jade/]: Syncing config to Zein25 (a2504168-e262-4b64-995f-72e629510025)
+[06Sep2024 22:04:38.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Plenty of Golems]
+[06Sep2024 22:04:39.342] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a2504168-e262-4b64-995f-72e629510025 was loaded
+[06Sep2024 22:12:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess has made the advancement [Complex Curiosities]
+[06Sep2024 22:30:57.648] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_green] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[06Sep2024 22:30:57.648] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_orange] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[06Sep2024 22:30:57.648] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_red] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[06Sep2024 22:40:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Alex's Mobs]
+[06Sep2024 22:47:40.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Hunt and Gather]
+[06Sep2024 22:54:40.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Magery]
+[06Sep2024 22:54:56.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [You Spin Me Right Round Baby]
+[06Sep2024 23:01:11.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Suit Up]
+[06Sep2024 23:01:22.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [No Longer Short-Staffed]
+[06Sep2024 23:05:21.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Isn't It Iron Pick]
+[06Sep2024 23:21:02.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement ['X' Marks the Spot]
+[06Sep2024 23:21:32.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Barrel Booty]
+[06Sep2024 23:21:41.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Patrol'/205286, l='ServerLevel[world]', x=-1094.30, y=80.00, z=1954.67] died: Patrol was stormed by Igoyess
+[06Sep2024 23:21:47.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Patrol'/205290, l='ServerLevel[world]', x=-1122.73, y=68.81, z=1947.52] died: Patrol was stormed by Igoyess
+[06Sep2024 23:21:55.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess was slain by Patrol
+[06Sep2024 23:23:06.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Diamonds!]
+[06Sep2024 23:23:46.090] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NomadEntity['Patrol'/205288, l='ServerLevel[world]', x=-1117.47, y=68.42, z=1959.70] died: Patrol was slain by Mr_Millenomi
+[06Sep2024 23:23:57.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitEntity['Patrol Leader'/205285, l='ServerLevel[world]', x=-1092.29, y=81.00, z=1950.23] died: Patrol Leader was slain by Mr_Millenomi
+[06Sep2024 23:24:07.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HorsemanEntity['Patrol'/205287, l='ServerLevel[world]', x=-1084.71, y=76.00, z=1942.51] died: Patrol was slain by Igoyess
+[06Sep2024 23:24:14.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Disme A Dozen]
+[06Sep2024 23:24:21.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HorsemanEntity['Patrol'/205289, l='ServerLevel[world]', x=-1097.11, y=78.00, z=1953.98] died: Patrol was slain by Mr_Millenomi
+[06Sep2024 23:26:47.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 fell from a high place
+[06Sep2024 23:28:58.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [Quite the Renovation]
