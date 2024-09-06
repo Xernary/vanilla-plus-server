@@ -1,4 +1,4 @@
 #!/bin/bash
 
 killall -s SIGKILL java
-sudo fuser -k 22222/tcp
+sudo fuser -k 12345/tcp
