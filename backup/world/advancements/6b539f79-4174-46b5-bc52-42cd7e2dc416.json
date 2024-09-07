@@ -160,6 +160,7 @@
       "minecraft:piglin": "2024-09-01 14:30:05 +0000",
       "minecraft:enderman": "2024-08-27 15:50:21 +0000",
       "minecraft:stray": "2024-09-04 18:09:43 +0000",
+      "minecraft:silverfish": "2024-09-07 17:31:26 +0000",
       "minecraft:vex": "2024-09-03 12:50:17 +0000",
       "minecraft:zombie": "2024-08-26 21:29:39 +0000",
       "minecraft:drowned": "2024-09-04 17:52:34 +0000",
@@ -753,6 +754,36 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-09-06 17:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-09-07 16:46:41 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-09-07 16:49:58 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2024-09-07 18:04:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-09-07 21:38:39 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2024-09-07 23:16:48 +0000"
     },
     "done": true
   },

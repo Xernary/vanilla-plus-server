@@ -71,6 +71,7 @@
       "minecraft:windswept_savanna": "2024-08-26 21:53:30 +0000",
       "minecraft:frozen_peaks": "2024-08-26 21:06:30 +0000",
       "minecraft:old_growth_birch_forest": "2024-08-27 16:51:45 +0000",
+      "minecraft:deep_dark": "2024-09-07 21:02:05 +0000",
       "minecraft:meadow": "2024-08-26 21:18:15 +0000",
       "minecraft:savanna": "2024-08-26 21:53:25 +0000",
       "minecraft:plains": "2024-08-26 21:01:25 +0000"
@@ -137,16 +138,23 @@
       "minecraft:skeleton": "2024-08-26 20:43:57 +0000",
       "minecraft:ghast": "2024-09-02 21:48:34 +0000",
       "minecraft:vindicator": "2024-08-27 18:51:32 +0000",
+      "minecraft:magma_cube": "2024-09-07 16:38:57 +0000",
       "minecraft:spider": "2024-08-26 21:04:59 +0000",
+      "minecraft:piglin_brute": "2024-09-07 15:49:40 +0000",
       "minecraft:creeper": "2024-08-26 21:03:29 +0000",
+      "minecraft:zombified_piglin": "2024-09-07 15:45:56 +0000",
       "minecraft:witch": "2024-08-28 14:39:16 +0000",
       "minecraft:wither_skeleton": "2024-09-02 22:06:57 +0000",
       "minecraft:cave_spider": "2024-08-28 14:39:16 +0000",
       "minecraft:piglin": "2024-09-02 21:50:14 +0000",
       "minecraft:silverfish": "2024-08-26 21:39:32 +0000",
       "minecraft:enderman": "2024-08-28 14:04:39 +0000",
+      "minecraft:stray": "2024-09-07 20:43:10 +0000",
+      "minecraft:endermite": "2024-09-07 15:43:58 +0000",
       "minecraft:zombie": "2024-08-26 21:05:18 +0000",
-      "minecraft:drowned": "2024-08-26 21:58:45 +0000"
+      "quark:foxhound": "2024-09-07 15:47:09 +0000",
+      "minecraft:drowned": "2024-08-26 21:58:45 +0000",
+      "minecraft:zombie_villager": "2024-09-07 12:30:28 +0000"
     },
     "done": false
   },
@@ -557,7 +565,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2024-09-02 21:47:57 +0000"
+      "minecraft:crimson_forest": "2024-09-07 15:48:09 +0000",
+      "minecraft:soul_sand_valley": "2024-09-02 21:47:57 +0000",
+      "minecraft:nether_wastes": "2024-09-07 15:45:15 +0000"
     },
     "done": false
   },
@@ -651,18 +661,6 @@
     },
     "done": true
   },
-  "create:brass": {
-    "criteria": {
-      "0": "2024-09-06 22:15:22 +0000"
-    },
-    "done": true
-  },
-  "create:precision_mechanism": {
-    "criteria": {
-      "0": "2024-09-06 22:12:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:chicken": "2024-09-06 21:57:13 +0000"
@@ -672,6 +670,162 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-09-06 21:57:13 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-09-06 22:12:21 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-09-06 22:15:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skunk": {
+    "criteria": {
+      "ex": "2024-09-07 12:51:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-09-07 13:01:25 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2024-09-07 13:10:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-09-07 13:20:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-09-07 15:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-09-07 15:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-09-07 15:48:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-09-07 15:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2024-09-07 15:52:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-09-07 15:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-09-07 15:54:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2024-09-07 16:12:32 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:i_aint_afraid": {
+    "criteria": {
+      "i_aint_afraid_0": "2024-09-07 16:19:18 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2024-09-07 16:21:20 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-09-07 16:35:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2024-09-07 16:53:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-09-07 17:29:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-09-07 17:42:40 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-09-07 18:26:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_druidic": {
+    "criteria": {
+      "requirement": "2024-09-07 21:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-09-07 21:02:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-09-07 22:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-09-07 23:11:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2024-09-07 23:25:35 +0000"
     },
     "done": true
   },

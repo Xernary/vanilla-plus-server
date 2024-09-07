@@ -56,12 +56,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "quark:glimmering_weald": "2024-09-06 23:36:20 +0000",
+      "minecraft:cherry_grove": "2024-09-07 15:55:13 +0000",
+      "minecraft:sunflower_plains": "2024-09-07 18:44:03 +0000",
       "minecraft:birch_forest": "2024-09-06 23:31:35 +0000",
+      "minecraft:windswept_hills": "2024-09-07 18:39:35 +0000",
+      "minecraft:beach": "2024-09-07 14:11:42 +0000",
       "minecraft:dark_forest": "2024-09-07 00:20:55 +0000",
       "minecraft:river": "2024-09-06 22:04:39 +0000",
+      "minecraft:grove": "2024-09-07 18:46:25 +0000",
       "minecraft:forest": "2024-09-06 22:46:33 +0000",
       "minecraft:lush_caves": "2024-09-07 00:25:20 +0000",
+      "minecraft:jungle": "2024-09-07 18:37:10 +0000",
+      "minecraft:ocean": "2024-09-07 14:40:10 +0000",
+      "minecraft:frozen_peaks": "2024-09-07 18:46:23 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-07 00:11:32 +0000",
+      "minecraft:deep_dark": "2024-09-07 21:00:31 +0000",
       "minecraft:plains": "2024-09-06 22:33:02 +0000"
     },
     "done": false
@@ -166,7 +175,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2024-09-06 23:31:23 +0000",
-      "cooked_rabbit": "2024-09-06 23:28:52 +0000"
+      "cooked_rabbit": "2024-09-06 23:28:52 +0000",
+      "cooked_chicken": "2024-09-07 21:36:26 +0000"
     },
     "done": false
   },
@@ -196,8 +206,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-09-07 16:12:16 +0000",
       "minecraft:spider": "2024-09-07 00:32:21 +0000",
+      "minecraft:creeper": "2024-09-07 15:35:39 +0000",
       "minecraft:slime": "2024-09-06 23:40:50 +0000",
+      "minecraft:phantom": "2024-09-07 17:56:16 +0000",
+      "minecraft:enderman": "2024-09-07 15:05:36 +0000",
       "minecraft:zombie": "2024-09-07 00:11:00 +0000"
     },
     "done": false
@@ -222,6 +236,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "vegetable_soup": "2024-09-07 14:48:32 +0000",
       "roast_chicken": "2024-09-06 23:44:32 +0000"
     },
     "done": false
@@ -250,11 +265,11 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "illager_camp": "2024-09-07 00:29:20 +0000"
+      "cave_codex": "2024-09-07 00:18:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
@@ -262,15 +277,183 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
+  "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "cave_codex": "2024-09-07 00:18:16 +0000"
+      "illager_camp": "2024-09-07 00:29:20 +0000"
     },
-    "done": true
+    "done": false
   },
   "quark:crawl_in_hollow_log": {
     "criteria": {
       "crawl_in_hollow_log": "2024-09-07 00:32:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
+    "criteria": {
+      "inscription_table": "2024-09-07 13:29:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-09-07 13:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-09-07 13:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-09-07 13:35:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-09-07 13:35:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-09-07 13:35:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-09-07 13:35:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-09-07 14:07:37 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2024-09-07 14:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-09-07 14:15:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-09-07 14:26:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-09-07 14:35:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2024-09-07 14:42:10 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-09-07 14:48:32 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-09-07 14:59:02 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-09-07 14:59:07 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_quests:refuse_quest": {
+    "criteria": {
+      "refuse_quest_0": "2024-09-07 15:04:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-09-07 15:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-09-07 15:36:43 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-09-07 15:49:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_druidic": {
+    "criteria": {
+      "requirement": "2024-09-07 16:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-09-07 16:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-09-07 16:10:12 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:fungal_plains_advancement": {
+    "criteria": {
+      "fungal_plains_advancement_0": "2024-09-07 16:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-09-07 16:10:22 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-09-07 17:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-09-07 21:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-09-07 21:55:28 +0000"
     },
     "done": true
   },
