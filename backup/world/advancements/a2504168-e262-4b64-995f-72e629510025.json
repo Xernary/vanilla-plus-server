@@ -208,11 +208,14 @@
     "criteria": {
       "minecraft:skeleton": "2024-09-07 16:12:16 +0000",
       "minecraft:spider": "2024-09-07 00:32:21 +0000",
+      "minecraft:piglin_brute": "2024-09-08 00:05:23 +0000",
       "minecraft:creeper": "2024-09-07 15:35:39 +0000",
       "minecraft:slime": "2024-09-06 23:40:50 +0000",
       "minecraft:phantom": "2024-09-07 17:56:16 +0000",
+      "minecraft:wither_skeleton": "2024-09-08 00:02:44 +0000",
       "minecraft:enderman": "2024-09-07 15:05:36 +0000",
-      "minecraft:zombie": "2024-09-07 00:11:00 +0000"
+      "minecraft:zombie": "2024-09-07 00:11:00 +0000",
+      "minecraft:drowned": "2024-09-08 00:34:10 +0000"
     },
     "done": false
   },
@@ -435,7 +438,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2024-09-07 16:10:22 +0000"
+      "minecraft:soul_sand_valley": "2024-09-07 16:10:22 +0000",
+      "minecraft:basalt_deltas": "2024-09-07 23:57:10 +0000",
+      "minecraft:warped_forest": "2024-09-08 00:07:01 +0000"
     },
     "done": false
   },
@@ -451,9 +456,51 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-09-07 23:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2024-09-07 21:55:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-09-07 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-09-08 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:i_aint_afraid": {
+    "criteria": {
+      "i_aint_afraid_0": "2024-09-08 00:02:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2024-09-08 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "luminous_nether:ash_forest_advancement": {
+    "criteria": {
+      "ash_forest_advancement_0": "2024-09-07 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-09-07 23:59:33 +0000"
     },
     "done": true
   },

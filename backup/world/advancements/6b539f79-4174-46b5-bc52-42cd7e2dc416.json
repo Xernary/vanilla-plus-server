@@ -775,6 +775,18 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-09-07 23:59:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-09-08 00:02:25 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/staff_artificer": {
     "criteria": {
       "requirement": "2024-09-07 21:38:39 +0000"
@@ -784,6 +796,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2024-09-07 23:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-09-07 23:59:38 +0000"
     },
     "done": true
   },

@@ -153,6 +153,7 @@
       "minecraft:vindicator": "2024-08-27 16:48:10 +0000",
       "minecraft:magma_cube": "2024-09-03 15:10:59 +0000",
       "minecraft:spider": "2024-08-26 21:25:33 +0000",
+      "minecraft:piglin_brute": "2024-09-07 23:59:22 +0000",
       "minecraft:creeper": "2024-08-26 22:26:11 +0000",
       "minecraft:evoker": "2024-09-04 14:23:39 +0000",
       "minecraft:witch": "2024-09-06 17:17:05 +0000",
@@ -697,7 +698,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-09-03 14:48:16 +0000",
       "minecraft:soul_sand_valley": "2024-08-30 18:10:54 +0000",
-      "minecraft:nether_wastes": "2024-09-03 14:49:20 +0000"
+      "minecraft:nether_wastes": "2024-09-03 14:49:20 +0000",
+      "minecraft:basalt_deltas": "2024-09-07 23:56:17 +0000"
     },
     "done": false
   },
@@ -964,6 +966,30 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-09-07 13:20:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-09-08 00:02:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-09-07 23:36:51 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2024-09-08 00:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-09-07 23:59:58 +0000"
     },
     "done": true
   },
