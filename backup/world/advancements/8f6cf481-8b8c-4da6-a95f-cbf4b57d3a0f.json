@@ -1011,21 +1011,21 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
-    "criteria": {
-      "requirement": "2024-09-08 21:38:12 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2024-09-08 21:14:15 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
-      "hero_of_the_village": "2024-09-08 22:33:50 +0000"
+      "requirement": "2024-09-08 21:36:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-09-08 21:38:12 +0000"
     },
     "done": true
   },
@@ -1035,9 +1035,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "requirement": "2024-09-08 21:36:45 +0000"
+      "hero_of_the_village": "2024-09-08 22:33:50 +0000"
     },
     "done": true
   },

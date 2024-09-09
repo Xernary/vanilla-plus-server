@@ -182,6 +182,7 @@
       "baked_potato": "2024-08-27 16:15:22 +0000",
       "tropical_fish": "2024-08-29 14:20:30 +0000",
       "apple": "2024-08-26 20:51:25 +0000",
+      "potato": "2024-09-09 17:56:18 +0000",
       "mutton": "2024-08-27 16:24:32 +0000",
       "bread": "2024-08-26 21:33:35 +0000",
       "golden_apple": "2024-09-03 10:59:26 +0000",
@@ -813,6 +814,24 @@
     },
     "done": true
   },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2024-09-08 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-09-08 22:15:34 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-09-08 22:18:32 +0000"
+    },
+    "done": true
+  },
   "plenty_of_golems:the_ancient_reamins_ancient": {
     "criteria": {
       "the_ancient_reamins_ancient": "2024-09-08 22:22:47 +0000"
@@ -825,21 +844,15 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_pillager_outpost": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "minecraft:pillager_outpost": "2024-09-08 22:15:34 +0000"
+      "enchanted_item": "2024-09-09 17:42:46 +0000"
     },
     "done": true
   },
-  "quark:crawl_in_hollow_log": {
+  "plenty_of_golems:not_a_dark_oak_log": {
     "criteria": {
-      "crawl_in_hollow_log": "2024-09-08 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/corrupted_eye": {
-    "criteria": {
-      "corrupted_eye": "2024-09-08 22:18:32 +0000"
+      "not_a_dark_oak_log": "2024-09-09 16:52:39 +0000"
     },
     "done": true
   },

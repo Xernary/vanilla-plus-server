@@ -116,7 +116,8 @@
       "mutton": "2024-08-27 15:29:45 +0000",
       "bread": "2024-08-26 21:28:29 +0000",
       "rotten_flesh": "2024-08-26 21:00:33 +0000",
-      "rabbit_stew": "2024-08-27 18:56:25 +0000"
+      "rabbit_stew": "2024-08-27 18:56:25 +0000",
+      "carrot": "2024-09-09 17:28:01 +0000"
     },
     "done": false
   },
@@ -836,6 +837,18 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-09-08 22:15:31 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-09-08 22:18:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-09-08 22:33:50 +0000"
@@ -848,15 +861,21 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_pillager_outpost": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "minecraft:pillager_outpost": "2024-09-08 22:15:31 +0000"
+      "lightning_rod_with_villager_no_fire": "2024-09-09 17:58:37 +0000"
     },
     "done": true
   },
-  "endrem:main/corrupted_eye": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "corrupted_eye": "2024-09-08 22:18:48 +0000"
+      "wither_skull": "2024-09-09 16:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-09-09 16:38:02 +0000"
     },
     "done": true
   },

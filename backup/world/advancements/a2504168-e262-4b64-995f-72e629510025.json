@@ -230,6 +230,7 @@
       "minecraft:witch": "2024-09-08 23:17:58 +0000",
       "minecraft:wither_skeleton": "2024-09-08 00:02:44 +0000",
       "minecraft:husk": "2024-09-08 23:13:22 +0000",
+      "minecraft:cave_spider": "2024-09-09 18:17:08 +0000",
       "minecraft:enderman": "2024-09-07 15:05:36 +0000",
       "minecraft:vex": "2024-09-08 17:53:26 +0000",
       "minecraft:zombie": "2024-09-07 00:11:00 +0000",
@@ -544,87 +545,9 @@
     },
     "done": true
   },
-  "nova_structures:root": {
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
-      "nova_structures:adventure/find_tavern": "2024-09-08 22:37:33 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2024-09-08 23:14:53 +0000"
-    },
-    "done": true
-  },
-  "plenty_of_golems:an_obsidian_tower": {
-    "criteria": {
-      "an_obsidian_tower": "2024-09-08 22:14:19 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_forlorn_hollows": {
-    "criteria": {
-      "discover": "2024-09-08 22:07:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-09-08 22:43:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-09-08 22:38:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-09-08 22:14:19 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-09-08 22:49:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2024-09-08 23:17:25 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2024-09-08 22:37:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2024-09-08 22:43:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2024-09-08 22:34:37 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/loot_illager_hideout": {
-    "criteria": {
-      "loot_illager_hideout_heart_loot": "2024-09-08 23:23:34 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2024-09-08 22:37:50 +0000"
+      "requirement": "2024-09-08 21:05:23 +0000"
     },
     "done": true
   },
@@ -634,9 +557,39 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2024-09-08 22:07:22 +0000"
+    },
+    "done": true
+  },
+  "plenty_of_golems:an_obsidian_tower": {
+    "criteria": {
+      "an_obsidian_tower": "2024-09-08 22:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-09-08 22:14:19 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2024-09-08 22:16:57 +0000"
+    },
+    "done": true
+  },
+  "plenty_of_golems:he_is_awake": {
+    "criteria": {
+      "he_is_awake": "2024-09-08 22:21:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-09-08 22:34:37 +0000"
     },
     "done": true
   },
@@ -646,21 +599,87 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-09-08 22:37:33 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2024-09-08 22:37:33 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-09-08 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-09-08 22:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-09-08 22:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-09-08 22:43:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-09-08 22:49:34 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-09-08 23:08:50 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+  "lootr:1cart": {
     "criteria": {
-      "requirement": "2024-09-08 21:05:23 +0000"
+      "opened_cart": "2024-09-08 23:14:53 +0000"
     },
     "done": true
   },
-  "plenty_of_golems:he_is_awake": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "he_is_awake": "2024-09-08 22:21:33 +0000"
+      "potion": "2024-09-08 23:17:25 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/loot_illager_hideout": {
+    "criteria": {
+      "loot_illager_hideout_heart_loot": "2024-09-08 23:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2024-09-09 18:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-09-09 17:59:33 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-09-09 17:01:25 +0000"
     },
     "done": true
   },

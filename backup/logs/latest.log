@@ -1015,3 +1015,641 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [09Sep2024 02:31:09.312] [Server thread/WARN] [recruits/]: A new version of Villager Recruits is available!
 [09Sep2024 02:31:09.312] [Server thread/WARN] [recruits/]: Download the new update here: https://www.curseforge.com/minecraft/mc-mods/recruits/files
 [09Sep2024 02:31:10.151] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[09Sep2024 12:26:31.699] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[09Sep2024 12:26:31.808] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 12:26:31.809] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 12:26:31.850] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 12:26:31.897] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 12:26:31.946] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 12:26:31.996] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 12:26:32.047] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 12:26:32.097] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 12:26:32.147] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 12:26:32.197] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 12:26:32.247] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 12:26:32.296] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 12:26:32.494] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 12:26:32.495] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 12:26:32.497] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 12:26:32.505] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 12:26:32.720] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48947ad7[id=6b539f79-4174-46b5-bc52-42cd7e2dc416,name=evzi,properties={textures=[com.mojang.authlib.properties.Property@72ffd4df]},legacy=false] (/87.13.241.58:54613) lost connection: Disconnected
+[09Sep2024 16:14:13.271] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Feno03 is 4b18fed1-e4da-4832-9384-5003c1df59f2
+[09Sep2024 16:14:13.400] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:14:13.410] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:14:13.460] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:14:13.510] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:14:13.560] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:14:13.610] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:14:13.660] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:14:13.715] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:14:13.760] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:14:13.810] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:14:13.860] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:14:13.910] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:14:14.145] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:14:14.145] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:14:14.158] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:14:14.160] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:14:20.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Feno03[/62.18.26.142:26762] logged in with entity id 163 at (-922.5, 99.0, 1838.5)
+[09Sep2024 16:14:20.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 joined the game
+[09Sep2024 16:14:21.027] [Server thread/INFO] [Jade/]: Syncing config to Feno03 (4b18fed1-e4da-4832-9384-5003c1df59f2)
+[09Sep2024 16:14:21.631] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was loaded
+[09Sep2024 16:21:10.277] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Xandro01 is 7eb38703-0a5a-4fb5-9cc3-5764af160e3e
+[09Sep2024 16:21:10.522] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:21:10.526] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:21:10.526] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:21:10.531] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:21:10.576] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:21:10.626] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:21:10.671] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:21:10.721] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:21:10.776] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:21:10.834] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:21:10.871] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:21:10.921] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:21:11.186] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:21:11.186] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:21:11.201] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:21:11.210] [Netty Epoll Server IO #11/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:21:14.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xandro01[/62.18.45.224:28955] logged in with entity id 1925 at (-1064.1043981327618, 70.0, 1842.63449996775)
+[09Sep2024 16:21:14.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 joined the game
+[09Sep2024 16:21:14.927] [Server thread/INFO] [Jade/]: Syncing config to Xandro01 (7eb38703-0a5a-4fb5-9cc3-5764af160e3e)
+[09Sep2024 16:21:15.959] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7eb38703-0a5a-4fb5-9cc3-5764af160e3e was loaded
+[09Sep2024 16:24:00.579] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Igoyess is 90ebe76f-2322-4311-9218-17e78c32467c
+[09Sep2024 16:24:00.634] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:24:00.645] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:24:00.700] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:24:00.746] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:24:00.800] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:24:00.853] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:24:00.904] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:24:00.951] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:24:01.001] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:24:01.052] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:24:01.101] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:24:01.151] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:24:01.301] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:24:01.307] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:24:01.312] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:24:01.363] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:24:08.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Igoyess[/109.115.27.223:55761] logged in with entity id 3235 at (214.6335321011882, 14.0, 2545.382989030759)
+[09Sep2024 16:24:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess joined the game
+[09Sep2024 16:24:08.636] [Server thread/INFO] [Jade/]: Syncing config to Igoyess (90ebe76f-2322-4311-9218-17e78c32467c)
+[09Sep2024 16:24:10.420] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 90ebe76f-2322-4311-9218-17e78c32467c was loaded
+[09Sep2024 16:25:43.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Igoyess lost connection: Disconnected
+[09Sep2024 16:25:43.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess left the game
+[09Sep2024 16:25:43.996] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 90ebe76f-2322-4311-9218-17e78c32467c was unloaded
+[09Sep2024 16:26:01.947] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[09Sep2024 16:26:02.016] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:26:02.039] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:26:02.090] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:26:02.138] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:26:02.190] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:26:02.239] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:26:02.292] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:26:02.339] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:26:02.389] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:26:02.440] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:26:02.490] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:26:02.540] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:26:02.680] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:26:02.680] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:26:02.693] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:26:02.746] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:26:10.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:58937] logged in with entity id 4537 at (-1090.5, 72.0, 1969.5)
+[09Sep2024 16:26:10.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[09Sep2024 16:26:10.808] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[09Sep2024 16:26:11.686] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[09Sep2024 16:26:52.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Xandro01) moved wrongly! 0.29804219885272687
+[09Sep2024 16:26:52.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Xandro01) moved wrongly! 0.8746106565854461
+[09Sep2024 16:27:22.769] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Igoyess is 90ebe76f-2322-4311-9218-17e78c32467c
+[09Sep2024 16:27:22.820] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:27:22.839] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:27:22.885] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:27:22.936] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:27:22.988] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:27:23.036] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:27:23.087] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:27:23.138] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:27:23.185] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:27:23.235] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:27:23.284] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:27:23.336] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:27:23.465] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:27:23.465] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:27:23.491] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:27:23.549] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:27:31.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Igoyess[/109.115.27.223:55904] logged in with entity id 5045 at (-1067.3888935991242, 71.875, 1982.4399439630415)
+[09Sep2024 16:27:31.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess joined the game
+[09Sep2024 16:27:31.075] [Server thread/INFO] [Jade/]: Syncing config to Igoyess (90ebe76f-2322-4311-9218-17e78c32467c)
+[09Sep2024 16:27:32.185] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 90ebe76f-2322-4311-9218-17e78c32467c was loaded
+[09Sep2024 16:28:18.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi fell from a high place
+[09Sep2024 16:29:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess has made the advancement [Spooky Scary Skeleton]
+[09Sep2024 16:30:08.619] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zein25 is a2504168-e262-4b64-995f-72e629510025
+[09Sep2024 16:30:08.677] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:30:08.693] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:30:08.749] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:30:08.792] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:30:08.846] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:30:08.891] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:30:08.948] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:30:08.994] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:30:09.044] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:30:09.099] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:30:09.143] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:30:09.197] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:30:09.374] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:30:09.374] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:30:09.379] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:30:09.434] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:30:16.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zein25[/109.115.27.223:57166] logged in with entity id 5973 at (-1099.2860501660198, 72.125, 1973.9949354328614)
+[09Sep2024 16:30:16.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 joined the game
+[09Sep2024 16:30:16.563] [Server thread/INFO] [Jade/]: Syncing config to Zein25 (a2504168-e262-4b64-995f-72e629510025)
+[09Sep2024 16:30:17.307] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a2504168-e262-4b64-995f-72e629510025 was loaded
+[09Sep2024 16:32:41.762] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[09Sep2024 16:32:41.835] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:32:41.875] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:32:41.920] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:32:41.970] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:32:42.019] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:32:42.069] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:32:42.118] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:32:42.174] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:32:42.223] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:32:42.274] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:32:42.320] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:32:42.370] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:32:42.513] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:32:42.514] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:32:42.826] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:32:42.906] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:32:49.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/87.13.241.58:60400] logged in with entity id 7058 at (-1166.5496397113557, 70.0, 2091.2900104489113)
+[09Sep2024 16:32:49.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[09Sep2024 16:32:49.853] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[09Sep2024 16:32:50.551] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[09Sep2024 16:34:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> ale il server ti va meglio o peggio?
+[09Sep2024 16:34:12.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> per ora normale
+[09Sep2024 16:35:25.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[09Sep2024 16:35:25.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[09Sep2024 16:35:25.342] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[09Sep2024 16:35:30.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 has made the advancement [Fetch Me Their Souls!]
+[09Sep2024 16:36:34.929] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player evzi is 6b539f79-4174-46b5-bc52-42cd7e2dc416
+[09Sep2024 16:36:35.002] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:36:35.026] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:36:35.074] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:36:35.123] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:36:35.182] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:36:35.235] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:36:35.273] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:36:35.323] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:36:35.372] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:36:35.421] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:36:35.475] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:36:35.525] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:36:35.677] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:36:35.678] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:36:35.681] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:36:35.730] [Netty Epoll Server IO #9/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:36:40.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=82, z=225} BlockPos{x=-141, y=87, z=221}
+[09Sep2024 16:36:42.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: evzi[/87.13.241.58:60570] logged in with entity id 9797 at (-965.9132822422408, 99.9424277526289, 1845.6818717377257)
+[09Sep2024 16:36:42.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi joined the game
+[09Sep2024 16:36:42.298] [Server thread/INFO] [Jade/]: Syncing config to evzi (6b539f79-4174-46b5-bc52-42cd7e2dc416)
+[09Sep2024 16:36:42.740] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was loaded
+[09Sep2024 16:38:02.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess has made the advancement [What a Deal!]
+[09Sep2024 16:41:15.814] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.814] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.814] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.814] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.814] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.814] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.814] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.814] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.814] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.815] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.815] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.815] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.815] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:41:15.815] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:06.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Clifford'/13193, l='ServerLevel[world]', x=-1038.09, y=76.00, z=2453.20] died, message: 'Clifford was slain by evzi'
+[09Sep2024 16:43:06.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Clifford'/13193, l='ServerLevel[world]', x=-1038.09, y=76.00, z=2453.20] died: Clifford was slain by evzi
+[09Sep2024 16:43:40.717] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.718] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:43:40.719] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:44:05.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 lost connection: Disconnected
+[09Sep2024 16:44:05.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 left the game
+[09Sep2024 16:44:05.998] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was unloaded
+[09Sep2024 16:44:45.338] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Feno03 is 4b18fed1-e4da-4832-9384-5003c1df59f2
+[09Sep2024 16:44:45.425] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:44:45.443] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:44:45.511] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:44:45.555] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:44:45.610] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:44:45.642] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:44:45.705] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:44:45.742] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:44:45.802] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:44:45.853] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:44:45.902] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:44:45.952] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:44:46.142] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:44:46.155] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:44:46.156] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:44:46.187] [Netty Epoll Server IO #12/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:44:52.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Feno03[/62.18.26.142:26395] logged in with entity id 17004 at (-928.5389810864244, 99.0, 1840.9198805569106)
+[09Sep2024 16:44:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 joined the game
+[09Sep2024 16:44:52.484] [Server thread/INFO] [Jade/]: Syncing config to Feno03 (4b18fed1-e4da-4832-9384-5003c1df59f2)
+[09Sep2024 16:44:52.586] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was loaded
+[09Sep2024 16:45:26.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 lost connection: Disconnected
+[09Sep2024 16:45:26.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 left the game
+[09Sep2024 16:45:26.752] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was unloaded
+[09Sep2024 16:45:44.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Igoyess> *
+[09Sep2024 16:45:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Igoyess> ***
+[09Sep2024 16:45:56.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Igoyess> *
+[09Sep2024 16:46:00.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> *
+[09Sep2024 16:46:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> ***
+[09Sep2024 16:46:02.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Igoyess> *subeme la radio*
+[09Sep2024 16:46:05.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> ***********************
+[09Sep2024 16:46:08.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> *dadadaafafaf*
+[09Sep2024 16:46:14.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Igoyess gode
+[09Sep2024 16:46:23.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> **aaaa*
+[09Sep2024 16:46:32.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * evzi cosa
+[09Sep2024 16:46:38.441] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Feno03 is 4b18fed1-e4da-4832-9384-5003c1df59f2
+[09Sep2024 16:46:38.525] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 16:46:38.565] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 16:46:38.607] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 16:46:38.649] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 16:46:38.705] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 16:46:38.768] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 16:46:38.826] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 16:46:38.865] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 16:46:38.913] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 16:46:38.945] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 16:46:39.023] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 16:46:39.080] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 16:46:39.289] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 16:46:39.290] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 16:46:39.300] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 16:46:39.300] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 16:46:45.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Feno03[/62.18.26.142:26995] logged in with entity id 18237 at (-928.5389810864244, 99.0, 1840.9198805569106)
+[09Sep2024 16:46:45.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 joined the game
+[09Sep2024 16:46:45.884] [Server thread/INFO] [Jade/]: Syncing config to Feno03 (4b18fed1-e4da-4832-9384-5003c1df59f2)
+[09Sep2024 16:46:46.532] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was loaded
+[09Sep2024 16:46:57.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['Kip the Swift'/17098, l='ServerLevel[world]', x=-228.89, y=31.43, z=-199.14] died: Kip the Swift tried to swim in lava
+[09Sep2024 16:47:15.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [evzi: Applied 1.0 damage to Zein25]
+[09Sep2024 16:47:41.938] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.938] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.938] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.938] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.938] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.938] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.939] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.939] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.939] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.939] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.939] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.939] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.939] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:41.939] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 16:47:42.417] [Worker-Main-576/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[09Sep2024 16:47:42.417] [Worker-Main-576/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[09Sep2024 16:47:42.417] [Worker-Main-576/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[09Sep2024 16:47:43.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zein25: Applied 1.0 damage to evzi]
+[09Sep2024 16:47:43.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7249ms or 144 ticks behind
+[09Sep2024 16:47:54.996] [Worker-Main-572/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[09Sep2024 16:47:54.998] [Worker-Main-572/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[09Sep2024 16:47:54.998] [Worker-Main-572/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[09Sep2024 16:47:54.999] [Worker-Main-572/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[09Sep2024 16:47:54.999] [Worker-Main-572/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[09Sep2024 16:48:16.803] [Worker-Main-573/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[09Sep2024 16:48:16.804] [Worker-Main-573/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[09Sep2024 16:48:26.173] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-1509, y=74, z=-1125}
+[09Sep2024 16:48:52.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> ha detto chiavando
+[09Sep2024 16:49:00.500] [Worker-Main-570/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[09Sep2024 16:49:00.501] [Worker-Main-570/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[09Sep2024 16:49:00.501] [Worker-Main-570/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[09Sep2024 16:49:00.501] [Worker-Main-570/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[09Sep2024 16:51:46.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 6.954233175693389,0.0,7.463182548347959
+[09Sep2024 16:51:46.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 7.191813816272315,0.0,7.7820078519364415
+[09Sep2024 16:51:47.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 7.4309794941884775,0.0,8.099897779403136
+[09Sep2024 16:51:47.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 7.671834847138598,0.0,8.416728497693612
+[09Sep2024 16:51:47.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 7.914445844874308,0.0,8.73240862706325
+[09Sep2024 16:51:47.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 8.158849977815407,0.0,9.046871622254912
+[09Sep2024 16:51:47.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 8.405056566198027,0.0,9.36007624506692
+[09Sep2024 16:51:47.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 8.653052823684675,0.0,9.672001940034761
+[09Sep2024 16:51:47.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 8.902812091816031,0.0,9.982642012685119
+[09Sep2024 16:51:47.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 9.154292561778675,0.0,10.292005028092035
+[09Sep2024 16:51:47.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 9.40744468657499,0.0,10.60010837871414
+[09Sep2024 16:51:47.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 9.662212074051467,0.0,10.906977543216499
+[09Sep2024 16:51:47.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 9.918529464991025,0.0,11.21264799917526
+[09Sep2024 16:51:47.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 10.17632938284305,0.0,11.517159160516258
+[09Sep2024 16:51:47.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 10.43554241878769,0.0,11.820554062110887
+[09Sep2024 16:51:47.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 10.696097495742379,0.0,12.122879068462225
+[09Sep2024 16:51:47.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 10.957924885036164,0.0,12.424180979604898
+[09Sep2024 16:51:47.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 11.220956108820701,0.0,12.72450702666697
+[09Sep2024 16:51:47.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 11.485121056410662,0.0,13.023907490480951
+[09Sep2024 16:51:47.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 11.750350973200511,0.0,13.322432807536188
+[09Sep2024 16:51:47.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 12.016581130199711,0.0,13.620130941122625
+[09Sep2024 16:51:47.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 12.28375043637243,0.0,13.917047641688441
+[09Sep2024 16:51:47.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 12.551798310676304,0.0,14.213229322394
+[09Sep2024 16:51:47.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 12.820667419443453,0.0,14.508720366511398
+[09Sep2024 16:51:47.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 13.090300589339904,0.0,14.803565990270272
+[09Sep2024 16:51:47.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3152ms or 63 ticks behind
+[09Sep2024 16:51:47.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 6.642560289407129,0.0,7.9542232092389895
+[09Sep2024 16:51:47.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xandro01) moved too quickly! 6.913569511553078,0.0,8.247898575595173
+[09Sep2024 16:52:39.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi has reached the goal [Not a Dark Oak Log]
+[09Sep2024 16:53:44.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> Xandro01 has been slained by a Bee
+[09Sep2024 17:02:09.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[09Sep2024 17:02:27.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3359ms or 67 ticks behind
+[09Sep2024 17:02:45.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[09Sep2024 17:04:15.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-719, y=22, z=-1863} BlockPos{x=-718, y=20, z=-1863}
+[09Sep2024 17:04:15.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-719, y=22, z=-1863} BlockPos{x=-718, y=20, z=-1863}
+[09Sep2024 17:04:18.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-715, y=18, z=-1863} BlockPos{x=-715, y=16, z=-1863}
+[09Sep2024 17:04:19.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-714, y=17, z=-1863} BlockPos{x=-714, y=16, z=-1863}
+[09Sep2024 17:05:29.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09Sep2024 17:05:47.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3143ms or 62 ticks behind
+[09Sep2024 17:06:06.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3977ms or 79 ticks behind
+[09Sep2024 17:06:25.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[09Sep2024 17:06:43.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
+[09Sep2024 17:07:00.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[09Sep2024 17:07:20.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Sep2024 17:07:43.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[09Sep2024 17:07:46.663] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 33 more
+[09Sep2024 17:08:06.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Sep2024 17:08:38.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
+[09Sep2024 17:08:56.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[09Sep2024 17:09:15.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[09Sep2024 17:09:58.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Sep2024 17:10:36.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[09Sep2024 17:11:37.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Sep2024 17:12:09.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[09Sep2024 17:12:27.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[09Sep2024 17:12:46.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09Sep2024 17:13:31.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.756] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.757] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:31.757] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[09Sep2024 17:13:42.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi moved too quickly! 0.6655150419887832,-9.303459070658164,-3.814994104794323
+[09Sep2024 17:13:42.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zein25 moved too quickly! -0.10722299099643351,-2.766367993957516,9.641391215053773
+[09Sep2024 17:13:59.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12855ms or 257 ticks behind
+[09Sep2024 17:14:17.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[09Sep2024 17:14:43.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Sep2024 17:15:00.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[09Sep2024 17:16:39.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[09Sep2024 17:17:20.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Sep2024 17:17:37.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[09Sep2024 17:17:55.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[09Sep2024 17:18:45.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[09Sep2024 17:18:45.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[09Sep2024 17:18:45.379] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[09Sep2024 17:20:30.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 has made the advancement [Enchanter]
+[09Sep2024 17:21:47.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 fell from a high place
+[09Sep2024 17:22:38.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> avete ossa?
+[09Sep2024 17:24:29.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fisk of the Sand'/46076, l='ServerLevel[world]', x=-1884.61, y=-37.00, z=2448.62] died: Fisk of the Sand was slain by evzi
+[09Sep2024 17:24:35.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[09Sep2024 17:25:58.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[09Sep2024 17:26:40.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Sep2024 17:27:00.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Sep2024 17:27:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Feno03> Now uncle ---> Orazio
+[09Sep2024 17:27:22.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-961, y=98, z=1854} BlockPos{x=-964, y=99, z=1852}
+[09Sep2024 17:27:22.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-961, y=98, z=1854} BlockPos{x=-964, y=99, z=1852}
+[09Sep2024 17:27:42.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Sep2024 17:28:00.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[09Sep2024 17:28:18.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[09Sep2024 17:28:56.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-708, y=70, z=-1887} BlockPos{x=-708, y=69, z=-1887}
+[09Sep2024 17:28:57.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-708, y=70, z=-1887} BlockPos{x=-708, y=69, z=-1887}
+[09Sep2024 17:28:57.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-708, y=70, z=-1887} BlockPos{x=-707, y=69, z=-1888}
+[09Sep2024 17:29:08.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-708, y=70, z=-1887} BlockPos{x=-709, y=69, z=-1888}
+[09Sep2024 17:29:11.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-704, y=69, z=-1889}
+[09Sep2024 17:29:12.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1889}
+[09Sep2024 17:29:12.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1889}
+[09Sep2024 17:29:12.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1889}
+[09Sep2024 17:29:12.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1889}
+[09Sep2024 17:29:12.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1889}
+[09Sep2024 17:29:12.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1889}
+[09Sep2024 17:29:13.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1889}
+[09Sep2024 17:29:13.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1889}
+[09Sep2024 17:29:27.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1889}
+[09Sep2024 17:29:32.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1888}
+[09Sep2024 17:29:32.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1888}
+[09Sep2024 17:29:32.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1888}
+[09Sep2024 17:29:33.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1888}
+[09Sep2024 17:29:33.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1888}
+[09Sep2024 17:29:35.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-704, y=70, z=-1892} BlockPos{x=-703, y=69, z=-1893}
+[09Sep2024 17:29:35.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-704, y=70, z=-1892} BlockPos{x=-703, y=69, z=-1893}
+[09Sep2024 17:29:45.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[09Sep2024 17:29:48.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 lost connection: Disconnected
+[09Sep2024 17:29:48.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 left the game
+[09Sep2024 17:29:48.181] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was unloaded
+[09Sep2024 17:30:58.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=70, z=-1889} BlockPos{x=-705, y=69, z=-1888}
+[09Sep2024 17:34:25.885] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Feno03 is 4b18fed1-e4da-4832-9384-5003c1df59f2
+[09Sep2024 17:34:26.012] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 17:34:26.046] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 17:34:26.126] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 17:34:26.186] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 17:34:26.251] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 17:34:26.291] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 17:34:26.346] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 17:34:26.386] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 17:34:26.431] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 17:34:26.486] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 17:34:26.546] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 17:34:26.601] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 17:34:26.761] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 17:34:26.761] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 17:34:26.774] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 17:34:26.811] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 17:34:33.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Feno03[/62.18.26.142:26705] logged in with entity id 73198 at (-966.3156374522126, 98.0, 1835.3927511391091)
+[09Sep2024 17:34:33.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 joined the game
+[09Sep2024 17:34:33.803] [Server thread/INFO] [Jade/]: Syncing config to Feno03 (4b18fed1-e4da-4832-9384-5003c1df59f2)
+[09Sep2024 17:34:33.882] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was loaded
+[09Sep2024 17:34:46.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Sep2024 17:35:12.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 lost connection: Disconnected
+[09Sep2024 17:35:12.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 left the game
+[09Sep2024 17:35:12.988] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was unloaded
+[09Sep2024 17:35:13.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[09Sep2024 17:35:39.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[09Sep2024 17:36:36.279] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Feno03 is 4b18fed1-e4da-4832-9384-5003c1df59f2
+[09Sep2024 17:36:36.355] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 17:36:36.380] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 17:36:36.432] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 17:36:36.464] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 17:36:36.499] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 17:36:36.554] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 17:36:36.579] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 17:36:36.619] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 17:36:36.667] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 17:36:36.734] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 17:36:36.789] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 17:36:36.877] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 17:36:37.049] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 17:36:37.054] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 17:36:37.054] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 17:36:37.124] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 17:36:43.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Feno03[/62.18.26.142:26586] logged in with entity id 75007 at (-969.291292397637, 100.17675927506424, 1838.6586619872476)
+[09Sep2024 17:36:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 joined the game
+[09Sep2024 17:36:43.553] [Server thread/INFO] [Jade/]: Syncing config to Feno03 (4b18fed1-e4da-4832-9384-5003c1df59f2)
+[09Sep2024 17:36:44.186] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was loaded
+[09Sep2024 17:36:55.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[09Sep2024 17:37:13.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[09Sep2024 17:37:30.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[09Sep2024 17:37:48.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3094ms or 61 ticks behind
+[09Sep2024 17:38:06.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[09Sep2024 17:38:28.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[09Sep2024 17:38:47.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3468ms or 69 ticks behind
+[09Sep2024 17:39:04.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[09Sep2024 17:39:24.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[09Sep2024 17:39:51.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[09Sep2024 17:40:08.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[09Sep2024 17:40:28.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[09Sep2024 17:40:45.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[09Sep2024 17:41:30.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[09Sep2024 17:41:48.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[09Sep2024 17:42:17.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[09Sep2024 17:42:46.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi has made the advancement [Enchanter]
+[09Sep2024 17:47:00.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zein25 moved too quickly! 0.0,-11.19886200217772,0.0
+[09Sep2024 17:47:04.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zein25 moved too quickly! 0.0,-13.547505941346515,0.0
+[09Sep2024 17:49:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 has made the advancement [Nightmare Fuel]
+[09Sep2024 17:51:13.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 lost connection: Disconnected
+[09Sep2024 17:51:13.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 left the game
+[09Sep2024 17:51:13.809] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was unloaded
+[09Sep2024 17:51:24.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zein25 moved wrongly!
+[09Sep2024 17:54:30.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:54:30.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:54:31.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:54:31.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:54:31.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:54:31.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:54:31.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:54:31.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:54:31.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:54:31.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=80, z=114} BlockPos{x=-34, y=80, z=114}
+[09Sep2024 17:57:45.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> nessuna aveva trovato una foresta distorta no?
+[09Sep2024 17:57:58.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Zein25> Ieri sera forse ci eravamo passati
+[09Sep2024 17:58:36.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 discovered that Igoyess was not a lightning rod
+[09Sep2024 17:58:37.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess has made the advancement [Surge Protector]
+[09Sep2024 17:58:42.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> ma...
+[09Sep2024 17:59:33.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [What a Deal!]
+[09Sep2024 17:59:45.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> sempre lui oh
+[09Sep2024 17:59:51.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> XD
+[09Sep2024 18:00:11.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Zein25> è stato un errore
+[09Sep2024 18:03:17.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 was doomed to fall
+[09Sep2024 18:03:58.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> ma che state facendo
+[09Sep2024 18:04:09.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> vieni su dc
+[09Sep2024 18:04:21.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> ma ora stacco, dove siete?
+[09Sep2024 18:04:28.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> che pagliaccio
+[09Sep2024 18:04:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> a casa
+[09Sep2024 18:04:39.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> di simo?
+[09Sep2024 18:04:43.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> io mia
+[09Sep2024 18:04:51.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> e dove?
+[09Sep2024 18:05:43.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> dove casa tua?
+[09Sep2024 18:05:58.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> piu avanti di quella di simo
+[09Sep2024 18:06:24.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> ma ce solo quella di nico
+[09Sep2024 18:06:38.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> eh mia
+[09Sep2024 18:06:50.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> sorry
+[09Sep2024 18:07:05.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> pensavo di star parlando con andrea XD
+[09Sep2024 18:07:11.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <evzi> ...
+[09Sep2024 18:07:31.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi was vanquished by Xandro01
+[09Sep2024 18:07:35.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Igoyess> Xandro
+[09Sep2024 18:07:45.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Xandro01> e addio ragzzi
+[09Sep2024 18:07:46.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Igoyess> stasera hots con nico e simone?
+[09Sep2024 18:07:46.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xandro01 lost connection: Disconnected
+[09Sep2024 18:07:46.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 left the game
+[09Sep2024 18:07:46.781] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7eb38703-0a5a-4fb5-9cc3-5764af160e3e was unloaded
+[09Sep2024 18:10:12.377] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mr_Millenomi is 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f
+[09Sep2024 18:10:12.417] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Sep2024 18:10:12.439] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Sep2024 18:10:12.490] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Sep2024 18:10:12.538] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Sep2024 18:10:12.590] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Sep2024 18:10:12.637] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Sep2024 18:10:12.688] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Sep2024 18:10:12.738] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Sep2024 18:10:12.789] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Sep2024 18:10:12.840] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Sep2024 18:10:12.888] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Sep2024 18:10:12.937] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Sep2024 18:10:13.067] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Sep2024 18:10:13.068] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Sep2024 18:10:13.091] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Sep2024 18:10:13.146] [Netty Epoll Server IO #8/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Sep2024 18:10:20.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mr_Millenomi[/81.56.93.19:60900] logged in with entity id 95520 at (-1083.699999988079, 71.0, 1983.699999988079)
+[09Sep2024 18:10:20.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi joined the game
+[09Sep2024 18:10:20.560] [Server thread/INFO] [Jade/]: Syncing config to Mr_Millenomi (8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f)
+[09Sep2024 18:10:20.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zein25 moved wrongly!
+[09Sep2024 18:10:21.378] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was loaded
+[09Sep2024 18:12:05.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mr_Millenomi lost connection: Disconnected
+[09Sep2024 18:12:05.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr_Millenomi left the game
+[09Sep2024 18:12:05.531] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 8f6cf481-8b8c-4da6-a95f-cbf4b57d3a0f was unloaded
+[09Sep2024 18:12:16.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Igoyess lost connection: Disconnected
+[09Sep2024 18:12:16.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess left the game
+[09Sep2024 18:12:16.579] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 90ebe76f-2322-4311-9218-17e78c32467c was unloaded
+[09Sep2024 18:13:36.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 was doomed to fall by Necromancer
+[09Sep2024 18:18:19.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: evzi lost connection: Disconnected
+[09Sep2024 18:18:19.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: evzi left the game
+[09Sep2024 18:18:19.431] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 6b539f79-4174-46b5-bc52-42cd7e2dc416 was unloaded
+[09Sep2024 18:23:14.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zein25 moved wrongly!
+[09Sep2024 18:26:05.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 has made the advancement [A Seedy Place]
+[09Sep2024 18:27:20.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zein25 moved too quickly! -0.6661314122045496,-1.0,10.028299330687105
+[09Sep2024 18:27:40.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zein25 lost connection: Disconnected
+[09Sep2024 18:27:40.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zein25 left the game
+[09Sep2024 18:27:40.378] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a2504168-e262-4b64-995f-72e629510025 was unloaded

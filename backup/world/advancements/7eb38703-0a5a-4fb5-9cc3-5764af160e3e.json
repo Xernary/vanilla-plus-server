@@ -32,6 +32,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-08-26 21:03:03 +0000",
+      "minecraft:mushroom_fields": "2024-09-09 16:53:51 +0000",
+      "minecraft:deep_ocean": "2024-09-09 16:50:15 +0000",
       "quark:glimmering_weald": "2024-08-29 15:30:38 +0000",
       "minecraft:cherry_grove": "2024-08-26 21:06:01 +0000",
       "minecraft:sunflower_plains": "2024-08-26 21:36:30 +0000",
@@ -42,6 +44,7 @@
       "minecraft:sparse_jungle": "2024-08-26 22:09:21 +0000",
       "minecraft:lukewarm_ocean": "2024-08-26 22:06:08 +0000",
       "minecraft:river": "2024-08-26 21:28:09 +0000",
+      "minecraft:stony_shore": "2024-09-09 16:49:47 +0000",
       "minecraft:dripstone_caves": "2024-08-26 20:46:44 +0000",
       "minecraft:grove": "2024-08-26 20:57:42 +0000",
       "minecraft:swamp": "2024-08-26 21:51:42 +0000",
@@ -148,6 +151,7 @@
       "chicken": "2024-08-26 20:56:32 +0000",
       "cooked_beef": "2024-08-26 21:00:38 +0000",
       "baked_potato": "2024-08-31 16:24:10 +0000",
+      "porkchop": "2024-09-09 18:05:17 +0000",
       "apple": "2024-08-26 21:28:25 +0000",
       "cooked_cod": "2024-09-02 22:13:56 +0000",
       "pumpkin_pie": "2024-08-27 16:15:39 +0000",
@@ -730,6 +734,30 @@
       "kill_mushlin_spewer_0": "2024-09-05 16:35:23 +0000"
     },
     "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-09-09 17:20:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-09-09 17:49:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2024-09-09 16:35:30 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2024-09-09 17:35:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
