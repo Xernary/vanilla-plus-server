@@ -861,12 +861,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-09-09 17:58:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-09-09 16:29:23 +0000"
@@ -876,6 +870,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-09-09 16:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-09-09 17:58:37 +0000"
     },
     "done": true
   },

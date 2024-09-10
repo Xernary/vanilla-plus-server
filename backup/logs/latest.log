@@ -1012,3 +1012,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [10Sep2024 02:31:06.286] [Server thread/WARN] [recruits/]: A new version of Villager Recruits is available!
 [10Sep2024 02:31:06.286] [Server thread/WARN] [recruits/]: Download the new update here: https://www.curseforge.com/minecraft/mc-mods/recruits/files
 [10Sep2024 02:31:07.086] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[10Sep2024 21:40:32.540] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Igoyess is 90ebe76f-2322-4311-9218-17e78c32467c
+[10Sep2024 21:40:32.645] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Sep2024 21:40:32.661] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Sep2024 21:40:32.699] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Sep2024 21:40:32.749] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Sep2024 21:40:32.798] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Sep2024 21:40:32.850] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Sep2024 21:40:32.898] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Sep2024 21:40:32.948] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Sep2024 21:40:32.999] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Sep2024 21:40:33.048] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Sep2024 21:40:33.096] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Sep2024 21:40:33.146] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Sep2024 21:40:33.296] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[10Sep2024 21:40:33.297] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[10Sep2024 21:40:33.304] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[10Sep2024 21:40:33.360] [Netty Epoll Server IO #14/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[10Sep2024 21:40:40.732] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:alexscaves/thornwood_stonecutter removed now.
+[10Sep2024 21:40:40.734] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:alexscaves/pewen_stonecutter removed now.
+[10Sep2024 21:40:40.737] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:cataclysm/chorus_stonecutter removed now.
+[10Sep2024 21:40:40.737] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:luminous_nether/withered_stonecutter removed now.
+[10Sep2024 21:40:40.742] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:alexscaves/thornwood_stonecutter removed now.
+[10Sep2024 21:40:40.743] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:alexscaves/pewen_stonecutter removed now.
+[10Sep2024 21:40:40.747] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:cataclysm/chorus_stonecutter removed now.
+[10Sep2024 21:40:40.747] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: v_slab_compat:luminous_nether/withered_stonecutter removed now.
+[10Sep2024 21:40:40.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Igoyess[/109.115.27.223:58855] logged in with entity id 164 at (-1212.2867109466188, 64.0, 1980.009149958877)
+[10Sep2024 21:40:40.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess joined the game
+[10Sep2024 21:40:41.016] [Server thread/INFO] [Jade/]: Syncing config to Igoyess (90ebe76f-2322-4311-9218-17e78c32467c)
+[10Sep2024 21:40:41.723] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 90ebe76f-2322-4311-9218-17e78c32467c was loaded
+[10Sep2024 21:59:04.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Igoyess lost connection: Disconnected
+[10Sep2024 21:59:04.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Igoyess left the game
+[10Sep2024 21:59:04.101] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 90ebe76f-2322-4311-9218-17e78c32467c was unloaded
