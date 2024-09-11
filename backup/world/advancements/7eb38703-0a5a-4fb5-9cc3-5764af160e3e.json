@@ -735,21 +735,15 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-09-09 17:20:30 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2024-09-09 17:49:46 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2024-09-09 16:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-09-09 17:20:30 +0000"
     },
     "done": true
   },
@@ -758,6 +752,18 @@
       "nova_structures:piglin_camp": "2024-09-09 17:35:07 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-09-09 17:49:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-09-11 15:34:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
