@@ -33,7 +33,9 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-08-26 21:03:03 +0000",
       "minecraft:mushroom_fields": "2024-09-09 16:53:51 +0000",
+      "minecraft:taiga": "2024-09-12 10:55:28 +0000",
       "minecraft:deep_ocean": "2024-09-09 16:50:15 +0000",
+      "minecraft:frozen_river": "2024-09-12 11:00:40 +0000",
       "quark:glimmering_weald": "2024-08-29 15:30:38 +0000",
       "minecraft:cherry_grove": "2024-08-26 21:06:01 +0000",
       "minecraft:sunflower_plains": "2024-08-26 21:36:30 +0000",
@@ -45,14 +47,22 @@
       "minecraft:lukewarm_ocean": "2024-08-26 22:06:08 +0000",
       "minecraft:river": "2024-08-26 21:28:09 +0000",
       "minecraft:stony_shore": "2024-09-09 16:49:47 +0000",
+      "minecraft:snowy_plains": "2024-09-12 10:55:03 +0000",
       "minecraft:dripstone_caves": "2024-08-26 20:46:44 +0000",
+      "minecraft:snowy_taiga": "2024-09-12 11:01:46 +0000",
       "minecraft:grove": "2024-08-26 20:57:42 +0000",
       "minecraft:swamp": "2024-08-26 21:51:42 +0000",
       "minecraft:jagged_peaks": "2024-08-26 20:58:08 +0000",
+      "minecraft:cold_ocean": "2024-09-12 10:54:55 +0000",
       "minecraft:forest": "2024-08-26 20:35:22 +0000",
       "minecraft:lush_caves": "2024-08-28 17:31:58 +0000",
+      "minecraft:ice_spikes": "2024-09-12 11:18:44 +0000",
+      "minecraft:frozen_ocean": "2024-09-12 10:55:07 +0000",
+      "minecraft:deep_frozen_ocean": "2024-09-12 10:57:33 +0000",
       "minecraft:jungle": "2024-08-26 22:05:26 +0000",
       "minecraft:ocean": "2024-08-29 15:44:14 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-09-12 10:55:44 +0000",
+      "minecraft:snowy_beach": "2024-09-12 10:59:33 +0000",
       "minecraft:windswept_savanna": "2024-08-26 21:54:09 +0000",
       "minecraft:frozen_peaks": "2024-08-26 21:06:28 +0000",
       "minecraft:old_growth_birch_forest": "2024-08-27 16:46:01 +0000",
@@ -267,6 +277,7 @@
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
+      "blue": "2024-09-12 11:11:19 +0000",
       "yellow": "2024-08-26 21:50:10 +0000"
     },
     "done": false
