@@ -2304,3 +2304,196 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [12Sep2024 11:25:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 was pierced by Cryomancer's icicle
 [12Sep2024 11:26:39.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 was frozen solid by Cryomancer's
 [12Sep2024 11:27:53.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 was frozen solid by Cryomancer's
+[12Sep2024 11:36:29.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 lost connection: Disconnected
+[12Sep2024 11:36:29.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 left the game
+[12Sep2024 11:36:29.028] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was unloaded
+[12Sep2024 11:36:36.148] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Feno03 is 4b18fed1-e4da-4832-9384-5003c1df59f2
+[12Sep2024 11:36:36.327] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Sep2024 11:36:36.332] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Sep2024 11:36:36.334] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Sep2024 11:36:36.374] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Sep2024 11:36:36.421] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Sep2024 11:36:36.451] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Sep2024 11:36:36.506] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Sep2024 11:36:36.561] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Sep2024 11:36:36.609] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Sep2024 11:36:36.652] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Sep2024 11:36:36.696] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Sep2024 11:36:36.752] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Sep2024 11:36:36.828] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Sep2024 11:36:36.846] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Sep2024 11:36:36.903] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Sep2024 11:36:36.956] [Netty Epoll Server IO #13/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Sep2024 11:36:43.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Feno03[/109.53.158.213:15771] logged in with entity id 31623 at (-953.3889535231847, 103.0, 1851.8041470945125)
+[12Sep2024 11:36:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 joined the game
+[12Sep2024 11:36:43.773] [Server thread/INFO] [Jade/]: Syncing config to Feno03 (4b18fed1-e4da-4832-9384-5003c1df59f2)
+[12Sep2024 11:36:43.906] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was loaded
+[12Sep2024 11:36:52.750] [pool-7-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-795, y=74, z=4645}
+[12Sep2024 11:37:19.153] [pool-7-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-533, y=68, z=4629}
+[12Sep2024 11:37:30.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Feno03 lost connection: Disconnected
+[12Sep2024 11:37:30.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Feno03 left the game
+[12Sep2024 11:37:30.882] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b18fed1-e4da-4832-9384-5003c1df59f2 was unloaded
+[12Sep2024 11:37:45.362] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=478, y=-59, z=81}
+[12Sep2024 11:37:50.843] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=320, y=-59, z=27}
+[12Sep2024 11:37:50.844] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=323, y=-55, z=28}
+[12Sep2024 11:37:50.844] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=320, y=-54, z=26}
+[12Sep2024 11:37:53.116] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[12Sep2024 11:37:53.116] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[12Sep2024 11:37:53.399] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=478, y=-59, z=81}
+[12Sep2024 11:37:53.601] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=325, y=-54, z=91}
+[12Sep2024 11:37:53.601] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=325, y=-53, z=85}
+[12Sep2024 11:37:53.602] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=323, y=-54, z=88}
+[12Sep2024 11:37:53.602] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=327, y=-54, z=88}
+[12Sep2024 11:37:53.602] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=325, y=-59, z=86}
+[12Sep2024 11:37:53.602] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=324, y=-58, z=88}
+[12Sep2024 11:37:53.618] [Worker-Main-353/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=478, y=-59, z=81}
+[12Sep2024 11:37:54.458] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=275, y=-58, z=81}
+[12Sep2024 11:37:55.036] [Worker-Main-353/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=286, y=-54, z=29}
+[12Sep2024 11:37:55.037] [Worker-Main-353/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=292, y=-54, z=31}
+[12Sep2024 11:37:55.037] [Worker-Main-353/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=-54, z=29}
+[12Sep2024 11:37:55.047] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=286, y=-58, z=26}
+[12Sep2024 11:37:55.047] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=287, y=-54, z=27}
+[12Sep2024 11:37:55.047] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=289, y=-59, z=27}
+[12Sep2024 11:37:55.047] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=-54, z=27}
+[12Sep2024 11:37:55.047] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=289, y=-53, z=25}
+[12Sep2024 11:38:01.205] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=518, y=-58, z=34}
+[12Sep2024 11:38:01.205] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=517, y=-58, z=34}
+[12Sep2024 11:38:01.206] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=516, y=-58, z=34}
+[12Sep2024 11:38:01.206] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=519, y=-58, z=34}
+[12Sep2024 11:38:01.206] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=520, y=-58, z=34}
+[12Sep2024 11:38:01.402] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=386, y=-53, z=29}
+[12Sep2024 11:38:01.402] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=389, y=-53, z=26}
+[12Sep2024 11:38:01.403] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=384, y=-57, z=32}
+[12Sep2024 11:38:01.403] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=386, y=-58, z=35}
+[12Sep2024 11:38:01.439] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=374, y=-53, z=31}
+[12Sep2024 11:38:01.439] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=380, y=-57, z=32}
+[12Sep2024 11:38:02.275] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=307, y=-58, z=88}
+[12Sep2024 11:38:02.284] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=308, y=-58, z=89}
+[12Sep2024 11:38:02.292] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=275, y=-58, z=89}
+[12Sep2024 11:38:02.293] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=280, y=-59, z=88}
+[12Sep2024 11:38:02.293] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=280, y=-59, z=87}
+[12Sep2024 11:38:02.293] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=280, y=-59, z=86}
+[12Sep2024 11:38:04.997] [Worker-Main-353/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=478, y=-59, z=81}
+[12Sep2024 11:38:05.650] [Worker-Main-354/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=521, y=-59, z=38}
+[12Sep2024 11:38:05.650] [Worker-Main-354/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=523, y=-59, z=38}
+[12Sep2024 11:38:05.840] [Worker-Main-354/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=274, y=-58, z=29}
+[12Sep2024 11:38:05.840] [Worker-Main-354/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=279, y=-59, z=28}
+[12Sep2024 11:38:05.840] [Worker-Main-354/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=279, y=-59, z=27}
+[12Sep2024 11:38:05.892] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=378, y=-57, z=37}
+[12Sep2024 11:38:05.937] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=521, y=-59, z=38}
+[12Sep2024 11:38:05.938] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=523, y=-59, z=38}
+[12Sep2024 11:38:06.116] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=478, y=-59, z=81}
+[12Sep2024 11:38:06.118] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=478, y=-59, z=81}
+[12Sep2024 11:38:18.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 has reached the goal [A Sand Giant]
+[12Sep2024 11:38:27.653] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=275, y=-58, z=81}
+[12Sep2024 11:38:27.653] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=275, y=-58, z=89}
+[12Sep2024 11:38:27.653] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=280, y=-59, z=88}
+[12Sep2024 11:38:27.654] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=280, y=-59, z=87}
+[12Sep2024 11:38:27.654] [Worker-Main-351/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=280, y=-59, z=86}
+[12Sep2024 11:38:29.177] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=518, y=-58, z=34}
+[12Sep2024 11:38:29.177] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=517, y=-58, z=34}
+[12Sep2024 11:38:29.177] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=516, y=-58, z=34}
+[12Sep2024 11:38:29.177] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=519, y=-58, z=34}
+[12Sep2024 11:38:29.177] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=520, y=-58, z=34}
+[12Sep2024 11:38:29.422] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=274, y=-58, z=21}
+[12Sep2024 11:38:29.422] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=279, y=-59, z=26}
+[12Sep2024 11:39:46.453] [Worker-Main-353/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=363, y=-59, z=30}
+[12Sep2024 11:39:46.453] [Worker-Main-353/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=365, y=-59, z=34}
+[12Sep2024 11:39:46.690] [Worker-Main-353/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=447, y=-59, z=84}
+[12Sep2024 11:39:48.472] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=359, y=-59, z=28}
+[12Sep2024 11:39:48.472] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=361, y=-59, z=28}
+[12Sep2024 11:39:48.472] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=360, y=-59, z=28}
+[12Sep2024 11:39:48.472] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=362, y=-58, z=30}
+[12Sep2024 11:39:48.472] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=359, y=-51, z=31}
+[12Sep2024 11:39:48.472] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=357, y=-58, z=34}
+[12Sep2024 11:39:48.473] [Worker-Main-352/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=359, y=-51, z=34}
+[12Sep2024 11:39:51.111] [Worker-Main-353/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=447, y=-59, z=84}
+[12Sep2024 11:40:58.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18760_(ProcessorMailbox.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_6937_(ProcessorMailbox.java:124) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture.uniApplyNow(CompletableFuture.java:681) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniApplyStage(CompletableFuture.java:662) ~[?:?]
+	at java.util.concurrent.CompletableFuture.thenApplyAsync(CompletableFuture.java:2178) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141930_(EntityStorage.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157562_(PersistentEntitySectionManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157555_(PersistentEntitySectionManager.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:1103) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_287207_(PersistentEntitySectionManager.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.level.ChunkMap.m_287285_(ChunkMap.java:1307) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_287043_(ChunkHolder.java:334) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23343!/:?]
+	... 47 more
+[12Sep2024 11:43:50.807] [Worker-Main-349/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[12Sep2024 11:44:06.182] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[12Sep2024 11:44:16.598] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-12}
+[12Sep2024 11:44:16.598] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-10}
+[12Sep2024 11:44:16.598] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-12}
+[12Sep2024 11:44:16.599] [Worker-Main-350/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-10}
+[12Sep2024 11:44:16.806] [Worker-Main-354/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-14}
+[12Sep2024 11:44:16.806] [Worker-Main-354/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-14}
+[12Sep2024 11:44:25.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Xandro01) moved too quickly! 8.619789834834023,0.5249737179006644,-5.585059461928267
+[12Sep2024 11:44:25.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Xandro01) moved too quickly! 8.783541849725452,0.5249737179006644,-5.9809432452589135
+[12Sep2024 11:44:25.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Xandro01) moved too quickly! 8.970501281483394,0.44814171640530276,-6.369154357898424
+[12Sep2024 11:44:25.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Xandro01) moved too quickly! 9.080473445014263,0.29752025923765757,-6.594516543184
+[12Sep2024 11:44:25.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Xandro01) moved too quickly! 9.188480522443683,0.0760314074630628,-6.813132704820873
+[12Sep2024 11:44:25.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Xandro01) moved too quickly! 9.294735136037275,-0.21351849141669277,-7.025732762394455
+[12Sep2024 11:44:25.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Xandro01) moved too quickly! 9.39942690233704,-0.4750262820993356,-7.232967658209418
+[12Sep2024 11:44:47.384] [Worker-Main-352/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[12Sep2024 11:44:47.384] [Worker-Main-352/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[12Sep2024 11:44:47.384] [Worker-Main-352/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[12Sep2024 11:44:50.119] [Worker-Main-349/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[12Sep2024 11:44:50.119] [Worker-Main-349/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[12Sep2024 11:44:50.120] [Worker-Main-349/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[12Sep2024 11:44:50.120] [Worker-Main-349/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[12Sep2024 11:44:50.121] [Worker-Main-349/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[12Sep2024 11:44:50.121] [Worker-Main-349/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[12Sep2024 11:44:56.694] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[12Sep2024 11:44:56.694] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[12Sep2024 11:44:56.695] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[12Sep2024 11:44:56.695] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[12Sep2024 11:44:56.695] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[12Sep2024 11:44:56.695] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[12Sep2024 11:44:56.695] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[12Sep2024 11:44:56.695] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[12Sep2024 11:44:56.695] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[12Sep2024 11:45:25.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xandro01 lost connection: Disconnected
+[12Sep2024 11:45:25.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xandro01 left the game
+[12Sep2024 11:45:25.018] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7eb38703-0a5a-4fb5-9cc3-5764af160e3e was unloaded

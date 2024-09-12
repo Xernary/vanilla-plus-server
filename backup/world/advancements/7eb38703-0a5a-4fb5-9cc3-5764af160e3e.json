@@ -776,5 +776,11 @@
     },
     "done": true
   },
+  "plenty_of_golems:a_sand_giant": {
+    "criteria": {
+      "a_sand_giant": "2024-09-12 11:38:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
